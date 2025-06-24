@@ -1,0 +1,1566 @@
+state,city,station,date,time,PM2.5,PM10,NO2,NH3,SO2,CO,OZONE,AQI
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",3/1/2020,10:00:00,68,64,17,4,28,31,40,68
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",3/1/2020,10:00:00,67,70,23,2,13,49,77,77
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",3/1/2020,10:00:00,32,64,26,5,6,19,16,32
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",3/1/2020,10:00:00,93,93,31,3,9,57,61,93
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",5/1/2020,6:00:00,60,55,20,5,18,29,53,60
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",5/1/2020,6:00:00,48,52,25,3,12,43,67,67
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",5/1/2020,6:00:00,36,41,31,5,5,33,14,41
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",5/1/2020,6:00:00,27,43,23,3,11,44,61,61
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",6/1/2020,3:00:00,54,54,15,5,21,30,51,54
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",6/1/2020,3:00:00,48,53,24,3,13,39,69,69
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",6/1/2020,3:00:00,24,35,29,5,6,16,16,35
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",6/1/2020,3:00:00,53,63,24,3,12,48,59,63
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",6/1/2020,6:00:00,59,57,15,5,20,30,63,63
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",6/1/2020,6:00:00,55,58,24,3,14,43,82,82
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",6/1/2020,6:00:00,22,34,26,4,6,17,15,34
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",6/1/2020,6:00:00,65,72,25,3,12,50,70,72
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",6/1/2020,11:00:00,66,61,15,5,23,36,57,66
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",6/1/2020,11:00:00,74,70,22,3,13,48,82,82
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",6/1/2020,11:00:00,20,30,23,4,5,16,14,30
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",6/1/2020,11:00:00,83,86,27,3,12,55,77,86
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",7/1/2020,12:00:00,69,63,15,5,24,37,54,69
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",7/1/2020,12:00:00,78,72,22,3,14,48,80,80
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",7/1/2020,12:00:00,19,30,22,4,5,16,14,30
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",7/1/2020,12:00:00,85,88,28,3,12,55,76,88
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",7/1/2020,2:00:00,131,94,15,5,26,34,60,131
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",7/1/2020,2:00:00,109,90,21,3,17,42,86,109
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",7/1/2020,2:00:00,23,33,25,4,5,25,19,33
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",7/1/2020,2:00:00,99,102,32,3,13,50,68,102
+Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",7/1/2020,3:00:00,132,95,15,5,26,33,63,132
+Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",7/1/2020,3:00:00,110,90,21,3,17,44,89,110
+Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",7/1/2020,3:00:00,23,34,25,4,6,27,20,34
+Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",7/1/2020,3:00:00,99,102,32,3,13,50,70,102
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",3/1/2020,10:00:00,142,98,13,3,15,33,18,142
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",5/1/2020,6:00:00,225,157,11,4,16,36,18,225
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",6/1/2020,3:00:00,141,104,11,4,15,27,19,141
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",6/1/2020,6:00:00,144,106,12,4,15,26,20,144
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",6/1/2020,11:00:00,168,132,13,4,15,50,20,168
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",7/1/2020,12:00:00,177,147,13,4,15,60,19,177
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",7/1/2020,2:00:00,224,207,16,4,16,46,19,224
+Assam,Guwahati,"Railway Colony, Guwahati - APCB",7/1/2020,3:00:00,224,206,16,4,16,39,21,224
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",3/1/2020,10:00:00,98,150,6,9,18,65,24,98
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",3/1/2020,10:00:00,366,150,30,9,15,33,25,366
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",3/1/2020,10:00:00,368,150,5,9,13,87,36,368
+Bihar,Patna,"Muradpur, Patna - BSPCB",3/1/2020,10:00:00,276,171,51,11,8,90,9,276
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",3/1/2020,10:00:00,245,170,79,10,10,57,5,245
+Bihar,Patna,"Samanpura, Patna - BSPCB",3/1/2020,10:00:00,311,181,24,4,14,48,43,311
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",5/1/2020,6:00:00,98,150,6,9,18,42,34,98
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",5/1/2020,6:00:00,271,150,30,9,20,42,50,271
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",5/1/2020,6:00:00,238,150,36,9,14,74,29,239
+Bihar,Patna,"Muradpur, Patna - BSPCB",5/1/2020,6:00:00,110,115,36,9,7,119,11,119
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",5/1/2020,6:00:00,114,107,62,7,10,42,4,114
+Bihar,Patna,"Samanpura, Patna - BSPCB",5/1/2020,6:00:00,182,105,19,4,14,47,32,182
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",6/1/2020,3:00:00,121,150,9,9,18,44,29,121
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",6/1/2020,3:00:00,310,150,30,9,21,79,38,310
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",6/1/2020,3:00:00,238,150,36,9,14,56,40,239
+Bihar,Patna,"Muradpur, Patna - BSPCB",6/1/2020,3:00:00,107,112,33,13,7,109,17,112
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",6/1/2020,3:00:00,110,115,76,7,9,50,3,115
+Bihar,Patna,"Samanpura, Patna - BSPCB",6/1/2020,3:00:00,238,150,36,9,14,48,50,239
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",6/1/2020,6:00:00,122,150,9,9,18,54,29,122
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",6/1/2020,6:00:00,327,150,30,9,23,68,40,327
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",6/1/2020,6:00:00,238,150,36,9,14,74,31,239
+Bihar,Patna,"Muradpur, Patna - BSPCB",6/1/2020,6:00:00,121,116,35,13,7,105,21,121
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",6/1/2020,6:00:00,125,123,82,7,9,65,3,125
+Bihar,Patna,"Samanpura, Patna - BSPCB",6/1/2020,6:00:00,238,150,36,9,14,63,34,239
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",6/1/2020,11:00:00,149,150,12,9,18,51,57,149
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",6/1/2020,11:00:00,359,150,30,9,24,71,22,359
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",6/1/2020,11:00:00,238,150,36,9,14,106,150,239
+Bihar,Patna,"Muradpur, Patna - BSPCB",6/1/2020,11:00:00,156,129,38,13,7,115,15,156
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",6/1/2020,11:00:00,172,150,89,7,10,97,4,172
+Bihar,Patna,"Samanpura, Patna - BSPCB",6/1/2020,11:00:00,238,150,36,9,14,90,14,239
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",7/1/2020,12:00:00,151,150,12,9,18,53,61,151
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",7/1/2020,12:00:00,365,150,30,9,23,80,17,365
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",7/1/2020,12:00:00,381,150,5,9,10,106,57,381
+Bihar,Patna,"Muradpur, Patna - BSPCB",7/1/2020,12:00:00,164,132,39,14,7,118,12,164
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",7/1/2020,12:00:00,181,156,89,7,10,99,4,181
+Bihar,Patna,"Samanpura, Patna - BSPCB",7/1/2020,12:00:00,238,150,36,9,14,95,10,239
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",7/1/2020,2:00:00,170,150,12,9,18,43,47,170
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",7/1/2020,2:00:00,396,150,30,9,22,44,35,396
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",7/1/2020,2:00:00,395,150,5,9,9,68,39,395
+Bihar,Patna,"Muradpur, Patna - BSPCB",7/1/2020,2:00:00,246,164,44,14,7,122,8,246
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",7/1/2020,2:00:00,284,195,96,8,10,79,3,284
+Bihar,Patna,"Samanpura, Patna - BSPCB",7/1/2020,2:00:00,337,195,26,4,14,95,16,337
+Bihar,Gaya,"Collectorate, Gaya - BSPCB",7/1/2020,3:00:00,174,150,12,9,18,41,49,174
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",7/1/2020,3:00:00,395,150,30,9,24,45,41,395
+Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",7/1/2020,3:00:00,398,150,5,9,9,71,41,398
+Bihar,Patna,"Muradpur, Patna - BSPCB",7/1/2020,3:00:00,253,167,45,14,7,115,10,253
+Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",7/1/2020,3:00:00,290,198,97,8,10,81,4,290
+Bihar,Patna,"Samanpura, Patna - BSPCB",7/1/2020,3:00:00,339,198,27,4,14,93,22,339
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",3/1/2020,10:00:00,85,91,14,11,14,37,10,91
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",5/1/2020,6:00:00,103,105,17,9,11,25,14,105
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",6/1/2020,3:00:00,68,82,17,9,11,25,7,82
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",6/1/2020,6:00:00,68,78,17,9,12,26,8,78
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",6/1/2020,11:00:00,63,65,15,10,12,33,8,65
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",7/1/2020,12:00:00,62,64,15,10,12,36,8,64
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",7/1/2020,2:00:00,55,52,13,10,12,40,8,55
+Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",7/1/2020,3:00:00,54,51,13,10,12,40,8,54
+Delhi,Delhi,"Alipur, Delhi - DPCC",3/1/2020,10:00:00,355,288,61,4,15,74,47,355
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",3/1/2020,10:00:00,375,306,64,14,24,39,63,375
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",3/1/2020,10:00:00,335,286,52,12,21,160,20,335
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",3/1/2020,10:00:00,300,246,12,12,14,82,38,300
+Delhi,Delhi,"Bawana, Delhi - DPCC",3/1/2020,10:00:00,306,306,62,12,14,71,45,306
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",3/1/2020,10:00:00,317,303,79,12,14,64,15,317
+Delhi,Delhi,"DTU, Delhi - CPCB",3/1/2020,10:00:00,324,286,112,6,12,65,26,324
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",3/1/2020,10:00:00,319,281,64,8,21,40,1,319
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",3/1/2020,10:00:00,364,363,73,7,31,151,25,364
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",3/1/2020,10:00:00,323,316,124,12,14,64,15,323
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",3/1/2020,10:00:00,225,306,69,17,14,56,21,225
+Delhi,Delhi,"ITO, Delhi - CPCB",3/1/2020,10:00:00,310,212,81,5,10,91,15,310
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",3/1/2020,10:00:00,400,375,202,25,11,105,4,400
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",3/1/2020,10:00:00,340,308,104,13,20,150,20,340
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",3/1/2020,10:00:00,271,223,51,12,14,161,23,271
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",3/1/2020,10:00:00,315,283,90,13,21,56,16,315
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",3/1/2020,10:00:00,278,236,77,11,7,56,8,278
+Delhi,Delhi,"Mundka, Delhi - DPCC",3/1/2020,10:00:00,334,271,52,20,16,87,21,334
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",3/1/2020,10:00:00,329,306,43,12,43,55,22,329
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",3/1/2020,10:00:00,327,177,51,12,8,48,51,327
+Delhi,Delhi,"Narela, Delhi - DPCC",3/1/2020,10:00:00,308,297,74,13,14,51,37,308
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",3/1/2020,10:00:00,392,358,62,20,18,151,22,392
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",3/1/2020,10:00:00,278,236,72,12,14,105,9,278
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",3/1/2020,10:00:00,335,312,63,14,25,74,28,335
+Delhi,Delhi,"Patparganj, Delhi - DPCC",3/1/2020,10:00:00,303,276,26,27,5,55,14,303
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",3/1/2020,10:00:00,320,279,72,11,14,96,9,320
+Delhi,Delhi,"Pusa, Delhi - DPCC",3/1/2020,10:00:00,314,290,55,14,20,59,28,314
+Delhi,Delhi,"Pusa, Delhi - IMD",3/1/2020,10:00:00,241,220,111,12,14,33,28,241
+Delhi,Delhi,"R K Puram, Delhi - DPCC",3/1/2020,10:00:00,301,312,11,3,16,151,27,312
+Delhi,Delhi,"Rohini, Delhi - DPCC",3/1/2020,10:00:00,364,337,38,20,7,86,10,364
+Delhi,Delhi,"Shadipur, Delhi - CPCB",3/1/2020,10:00:00,350,306,57,12,34,156,20,350
+Delhi,Delhi,"Sirifort, Delhi - CPCB",3/1/2020,10:00:00,441,394,130,19,22,70,23,441
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",3/1/2020,10:00:00,265,223,53,14,13,52,47,265
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",3/1/2020,10:00:00,275,170,40,10,8,51,46,275
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",3/1/2020,10:00:00,335,305,17,11,20,171,20,335
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",3/1/2020,10:00:00,418,306,34,18,22,84,7,418
+Delhi,Delhi,"Alipur, Delhi - DPCC",5/1/2020,6:00:00,345,230,62,7,15,42,69,345
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",5/1/2020,6:00:00,343,281,90,12,11,80,63,343
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",5/1/2020,6:00:00,355,263,63,11,13,25,32,355
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",5/1/2020,6:00:00,295,194,7,12,14,66,53,295
+Delhi,Delhi,"Bawana, Delhi - DPCC",5/1/2020,6:00:00,363,249,52,21,14,33,66,363
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",5/1/2020,6:00:00,318,267,67,12,14,8,11,318
+Delhi,Delhi,"DTU, Delhi - CPCB",5/1/2020,6:00:00,345,306,34,5,5,48,77,345
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",5/1/2020,6:00:00,306,306,62,12,14,26,4,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",5/1/2020,6:00:00,336,314,67,6,13,36,21,336
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",5/1/2020,6:00:00,304,203,52,12,14,36,20,304
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",5/1/2020,6:00:00,304,306,86,10,6,29,21,304
+Delhi,Delhi,"ITO, Delhi - CPCB",5/1/2020,6:00:00,308,156,59,3,6,42,45,308
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",5/1/2020,6:00:00,395,336,206,20,14,80,3,395
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",5/1/2020,6:00:00,309,207,101,12,19,21,51,309
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",5/1/2020,6:00:00,306,306,62,12,14,66,54,306
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",5/1/2020,6:00:00,312,201,92,13,16,34,11,312
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",5/1/2020,6:00:00,306,306,62,12,14,62,21,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",5/1/2020,6:00:00,338,238,45,17,14,45,21,338
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",5/1/2020,6:00:00,315,306,45,12,15,38,39,315
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",5/1/2020,6:00:00,306,306,62,12,14,35,33,306
+Delhi,Delhi,"Narela, Delhi - DPCC",5/1/2020,6:00:00,323,306,55,13,14,42,84,323
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",5/1/2020,6:00:00,368,266,60,18,14,36,46,368
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",5/1/2020,6:00:00,275,198,42,12,14,101,13,275
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",5/1/2020,6:00:00,323,228,80,11,20,60,41,323
+Delhi,Delhi,"Patparganj, Delhi - DPCC",5/1/2020,6:00:00,303,207,30,26,4,32,30,303
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",5/1/2020,6:00:00,306,193,76,10,14,68,21,306
+Delhi,Delhi,"Pusa, Delhi - DPCC",5/1/2020,6:00:00,348,268,82,16,13,62,27,348
+Delhi,Delhi,"Pusa, Delhi - IMD",5/1/2020,6:00:00,270,176,65,12,14,45,33,270
+Delhi,Delhi,"R K Puram, Delhi - DPCC",5/1/2020,6:00:00,306,306,62,12,14,12,38,306
+Delhi,Delhi,"Rohini, Delhi - DPCC",5/1/2020,6:00:00,366,253,32,19,5,27,25,366
+Delhi,Delhi,"Shadipur, Delhi - CPCB",5/1/2020,6:00:00,341,306,106,12,9,26,48,341
+Delhi,Delhi,"Sirifort, Delhi - CPCB",5/1/2020,6:00:00,323,249,73,8,7,16,58,323
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",5/1/2020,6:00:00,317,233,54,12,11,51,56,317
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",5/1/2020,6:00:00,289,151,42,10,9,41,108,289
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",5/1/2020,6:00:00,360,270,21,13,15,44,73,360
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",5/1/2020,6:00:00,372,298,34,15,12,79,10,372
+Delhi,Delhi,"Alipur, Delhi - DPCC",6/1/2020,3:00:00,306,306,62,12,14,78,14,306
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",6/1/2020,3:00:00,333,266,85,12,15,111,64,333
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",6/1/2020,3:00:00,344,252,59,10,16,55,8,344
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",6/1/2020,3:00:00,275,181,7,12,14,78,35,275
+Delhi,Delhi,"Bawana, Delhi - DPCC",6/1/2020,3:00:00,371,258,54,19,18,45,19,371
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",6/1/2020,3:00:00,316,243,73,12,14,15,25,316
+Delhi,Delhi,"DTU, Delhi - CPCB",6/1/2020,3:00:00,343,270,36,5,5,73,29,343
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",6/1/2020,3:00:00,306,306,62,12,14,55,2,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",6/1/2020,3:00:00,350,332,68,7,14,77,15,350
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",6/1/2020,3:00:00,301,206,47,12,14,72,11,301
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",6/1/2020,3:00:00,238,306,90,11,14,42,21,238
+Delhi,Delhi,"ITO, Delhi - CPCB",6/1/2020,3:00:00,307,157,62,3,8,80,11,307
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",6/1/2020,3:00:00,379,306,203,20,14,89,3,379
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",6/1/2020,3:00:00,314,213,108,12,19,68,10,314
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",6/1/2020,3:00:00,253,178,42,12,14,97,18,253
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",6/1/2020,3:00:00,315,202,97,13,18,67,10,315
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",6/1/2020,3:00:00,306,306,62,12,14,80,5,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",6/1/2020,3:00:00,350,231,44,18,15,72,21,350
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",6/1/2020,3:00:00,320,306,46,12,12,35,12,320
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",6/1/2020,3:00:00,306,306,62,12,14,39,17,306
+Delhi,Delhi,"Narela, Delhi - DPCC",6/1/2020,3:00:00,322,306,57,13,14,57,32,322
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",6/1/2020,3:00:00,364,251,62,17,14,73,9,364
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",6/1/2020,3:00:00,287,201,40,12,14,82,6,287
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",6/1/2020,3:00:00,322,220,81,11,19,95,11,322
+Delhi,Delhi,"Patparganj, Delhi - DPCC",6/1/2020,3:00:00,312,213,31,21,5,70,6,312
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",6/1/2020,3:00:00,310,192,72,9,20,76,8,310
+Delhi,Delhi,"Pusa, Delhi - DPCC",6/1/2020,3:00:00,342,237,76,16,16,83,10,342
+Delhi,Delhi,"Pusa, Delhi - IMD",6/1/2020,3:00:00,306,306,62,12,14,62,22,306
+Delhi,Delhi,"R K Puram, Delhi - DPCC",6/1/2020,3:00:00,272,217,88,6,18,56,17,272
+Delhi,Delhi,"Rohini, Delhi - DPCC",6/1/2020,3:00:00,354,228,34,17,6,56,8,354
+Delhi,Delhi,"Shadipur, Delhi - CPCB",6/1/2020,3:00:00,340,306,109,12,9,72,7,340
+Delhi,Delhi,"Sirifort, Delhi - CPCB",6/1/2020,3:00:00,328,245,86,9,8,94,20,328
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",6/1/2020,3:00:00,318,219,52,13,11,77,19,318
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",6/1/2020,3:00:00,297,151,56,10,10,58,26,297
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",6/1/2020,3:00:00,349,247,22,12,21,76,12,349
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",6/1/2020,3:00:00,366,271,32,14,12,99,8,366
+Delhi,Delhi,"Alipur, Delhi - DPCC",6/1/2020,6:00:00,306,306,62,12,14,62,23,306
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",6/1/2020,6:00:00,348,270,84,12,15,105,63,348
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",6/1/2020,6:00:00,349,253,58,11,15,43,11,349
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",6/1/2020,6:00:00,278,186,7,12,14,74,39,278
+Delhi,Delhi,"Bawana, Delhi - DPCC",6/1/2020,6:00:00,378,268,57,19,20,46,26,378
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",6/1/2020,6:00:00,322,243,77,12,14,10,28,322
+Delhi,Delhi,"DTU, Delhi - CPCB",6/1/2020,6:00:00,348,267,36,5,5,56,40,348
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",6/1/2020,6:00:00,306,306,62,12,14,49,2,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",6/1/2020,6:00:00,361,346,70,7,15,66,24,361
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",6/1/2020,6:00:00,307,210,46,12,14,59,12,307
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",6/1/2020,6:00:00,241,306,91,11,14,42,21,241
+Delhi,Delhi,"ITO, Delhi - CPCB",6/1/2020,6:00:00,315,159,63,3,8,77,15,315
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",6/1/2020,6:00:00,381,301,206,20,14,92,3,381
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",6/1/2020,6:00:00,329,217,111,12,19,52,17,329
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",6/1/2020,6:00:00,274,184,43,12,14,91,22,274
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",6/1/2020,6:00:00,329,209,100,13,18,69,10,329
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",6/1/2020,6:00:00,306,306,62,12,14,77,6,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",6/1/2020,6:00:00,360,235,44,18,15,69,21,360
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",6/1/2020,6:00:00,329,306,47,12,12,37,17,329
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",6/1/2020,6:00:00,306,306,62,12,14,38,26,306
+Delhi,Delhi,"Narela, Delhi - DPCC",6/1/2020,6:00:00,337,306,59,13,14,53,39,337
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",6/1/2020,6:00:00,370,253,63,17,17,61,15,370
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",6/1/2020,6:00:00,300,207,41,12,14,77,6,300
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",6/1/2020,6:00:00,333,223,80,11,21,89,19,333
+Delhi,Delhi,"Patparganj, Delhi - DPCC",6/1/2020,6:00:00,325,218,31,22,4,66,13,325
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",6/1/2020,6:00:00,318,195,74,10,22,74,9,318
+Delhi,Delhi,"Pusa, Delhi - DPCC",6/1/2020,6:00:00,356,242,70,16,16,78,18,356
+Delhi,Delhi,"Pusa, Delhi - IMD",6/1/2020,6:00:00,306,306,62,12,14,52,20,306
+Delhi,Delhi,"R K Puram, Delhi - DPCC",6/1/2020,6:00:00,276,219,91,6,18,39,17,276
+Delhi,Delhi,"Rohini, Delhi - DPCC",6/1/2020,6:00:00,360,232,35,17,6,41,11,360
+Delhi,Delhi,"Shadipur, Delhi - CPCB",6/1/2020,6:00:00,348,306,110,12,9,65,10,348
+Delhi,Delhi,"Sirifort, Delhi - CPCB",6/1/2020,6:00:00,336,250,88,9,8,79,22,336
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",6/1/2020,6:00:00,335,224,53,13,11,69,24,335
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",6/1/2020,6:00:00,308,154,61,10,10,52,35,308
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",6/1/2020,6:00:00,359,250,22,12,20,69,21,359
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",6/1/2020,6:00:00,368,271,32,13,12,95,8,368
+Delhi,Delhi,"Alipur, Delhi - DPCC",6/1/2020,11:00:00,302,169,51,6,18,52,21,302
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",6/1/2020,11:00:00,338,248,79,12,19,99,74,338
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",6/1/2020,11:00:00,336,233,53,11,15,26,11,336
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",6/1/2020,11:00:00,259,175,8,12,14,75,35,259
+Delhi,Delhi,"Bawana, Delhi - DPCC",6/1/2020,11:00:00,366,254,55,18,19,54,21,366
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",6/1/2020,11:00:00,299,221,81,12,14,2,13,299
+Delhi,Delhi,"DTU, Delhi - CPCB",6/1/2020,11:00:00,333,240,33,5,5,46,42,333
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",6/1/2020,11:00:00,306,306,57,4,25,46,2,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",6/1/2020,11:00:00,352,321,67,7,14,60,20,352
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",6/1/2020,11:00:00,287,197,42,12,14,48,11,287
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",6/1/2020,11:00:00,221,306,84,11,14,35,21,221
+Delhi,Delhi,"ITO, Delhi - CPCB",6/1/2020,11:00:00,305,153,62,3,8,70,12,305
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",6/1/2020,11:00:00,356,259,208,20,14,82,3,356
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",6/1/2020,11:00:00,311,201,105,12,19,41,19,311
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",6/1/2020,11:00:00,261,186,42,12,14,82,19,261
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",6/1/2020,11:00:00,333,214,97,13,18,48,10,333
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",6/1/2020,11:00:00,306,306,62,12,14,51,7,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",6/1/2020,11:00:00,350,226,44,18,15,66,21,350
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",6/1/2020,11:00:00,325,306,48,12,13,24,14,325
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",6/1/2020,11:00:00,308,164,42,11,8,39,22,308
+Delhi,Delhi,"Narela, Delhi - DPCC",6/1/2020,11:00:00,324,306,59,14,14,48,31,324
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",6/1/2020,11:00:00,355,228,61,17,19,54,14,355
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",6/1/2020,11:00:00,298,214,42,12,14,72,6,298
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",6/1/2020,11:00:00,325,214,73,11,21,77,19,325
+Delhi,Delhi,"Patparganj, Delhi - DPCC",6/1/2020,11:00:00,309,205,30,21,5,44,16,309
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",6/1/2020,11:00:00,310,188,72,10,24,67,9,310
+Delhi,Delhi,"Pusa, Delhi - DPCC",6/1/2020,11:00:00,341,218,62,16,16,52,18,341
+Delhi,Delhi,"Pusa, Delhi - IMD",6/1/2020,11:00:00,306,306,62,12,14,42,18,306
+Delhi,Delhi,"R K Puram, Delhi - DPCC",6/1/2020,11:00:00,256,205,86,6,18,37,17,256
+Delhi,Delhi,"Rohini, Delhi - DPCC",6/1/2020,11:00:00,350,229,34,17,6,35,9,350
+Delhi,Delhi,"Shadipur, Delhi - CPCB",6/1/2020,11:00:00,349,306,107,12,12,57,10,349
+Delhi,Delhi,"Sirifort, Delhi - CPCB",6/1/2020,11:00:00,324,239,84,9,8,55,29,324
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",6/1/2020,11:00:00,330,213,51,13,11,62,21,330
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",6/1/2020,11:00:00,295,147,59,10,11,49,27,295
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",6/1/2020,11:00:00,346,233,21,11,18,47,18,346
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",6/1/2020,11:00:00,361,258,29,13,12,93,7,361
+Delhi,Delhi,"Alipur, Delhi - DPCC",7/1/2020,12:00:00,293,164,49,6,18,52,19,293
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",7/1/2020,12:00:00,336,239,78,11,22,99,76,336
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",7/1/2020,12:00:00,331,227,52,11,15,27,9,331
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",7/1/2020,12:00:00,252,174,8,12,14,76,33,252
+Delhi,Delhi,"Bawana, Delhi - DPCC",7/1/2020,12:00:00,361,248,55,18,20,56,17,361
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",7/1/2020,12:00:00,294,213,81,12,14,3,12,294
+Delhi,Delhi,"DTU, Delhi - CPCB",7/1/2020,12:00:00,326,234,32,5,5,47,38,326
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",7/1/2020,12:00:00,306,306,62,12,14,47,2,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",7/1/2020,12:00:00,347,306,67,7,14,59,17,347
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",7/1/2020,12:00:00,280,194,41,12,14,49,11,280
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",7/1/2020,12:00:00,211,306,83,11,14,36,21,211
+Delhi,Delhi,"ITO, Delhi - CPCB",7/1/2020,12:00:00,299,150,61,3,7,73,10,299
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",7/1/2020,12:00:00,349,253,208,20,14,81,3,349
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",7/1/2020,12:00:00,304,196,105,12,19,43,16,304
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",7/1/2020,12:00:00,255,181,42,12,14,83,17,255
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",7/1/2020,12:00:00,332,211,96,13,18,40,10,332
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",7/1/2020,12:00:00,306,306,62,12,14,54,7,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",7/1/2020,12:00:00,347,223,44,18,15,64,21,347
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",7/1/2020,12:00:00,323,306,48,12,13,27,10,323
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",7/1/2020,12:00:00,305,162,42,11,8,43,17,305
+Delhi,Delhi,"Narela, Delhi - DPCC",7/1/2020,12:00:00,318,306,60,14,14,47,25,318
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",7/1/2020,12:00:00,349,222,60,17,20,57,10,349
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",7/1/2020,12:00:00,296,214,41,12,14,72,6,296
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",7/1/2020,12:00:00,320,209,71,10,22,76,15,320
+Delhi,Delhi,"Patparganj, Delhi - DPCC",7/1/2020,12:00:00,302,200,30,21,5,45,17,302
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",7/1/2020,12:00:00,306,186,72,10,25,69,7,306
+Delhi,Delhi,"Pusa, Delhi - DPCC",7/1/2020,12:00:00,336,214,61,16,16,52,17,336
+Delhi,Delhi,"Pusa, Delhi - IMD",7/1/2020,12:00:00,306,306,62,12,14,42,17,306
+Delhi,Delhi,"R K Puram, Delhi - DPCC",7/1/2020,12:00:00,248,200,85,6,18,42,17,248
+Delhi,Delhi,"Rohini, Delhi - DPCC",7/1/2020,12:00:00,344,225,33,16,6,37,7,344
+Delhi,Delhi,"Shadipur, Delhi - CPCB",7/1/2020,12:00:00,348,306,107,12,11,62,8,348
+Delhi,Delhi,"Sirifort, Delhi - CPCB",7/1/2020,12:00:00,320,235,83,9,8,56,29,320
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",7/1/2020,12:00:00,324,209,51,13,11,62,20,324
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",7/1/2020,12:00:00,290,145,59,10,11,52,21,290
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",7/1/2020,12:00:00,342,229,21,11,18,47,15,342
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",7/1/2020,12:00:00,357,252,28,13,12,93,7,357
+Delhi,Delhi,"Alipur, Delhi - DPCC",7/1/2020,2:00:00,217,115,36,6,12,61,12,217
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",7/1/2020,2:00:00,294,174,57,9,28,88,63,294
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",7/1/2020,2:00:00,277,147,43,9,14,46,8,277
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",7/1/2020,2:00:00,188,127,5,12,14,72,32,188
+Delhi,Delhi,"Bawana, Delhi - DPCC",7/1/2020,2:00:00,297,168,52,17,19,65,16,297
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",7/1/2020,2:00:00,225,131,69,12,14,3,10,225
+Delhi,Delhi,"DTU, Delhi - CPCB",7/1/2020,2:00:00,270,143,27,5,6,71,24,270
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",7/1/2020,2:00:00,306,306,62,12,14,46,4,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",7/1/2020,2:00:00,261,179,65,6,15,54,12,261
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",7/1/2020,2:00:00,306,306,62,12,14,44,9,306
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",7/1/2020,2:00:00,178,306,61,8,6,43,21,178
+Delhi,Delhi,"ITO, Delhi - CPCB",7/1/2020,2:00:00,243,122,59,3,8,86,7,243
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",7/1/2020,2:00:00,291,165,205,21,14,71,5,291
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",7/1/2020,2:00:00,238,140,90,14,25,54,30,238
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",7/1/2020,2:00:00,209,143,34,12,14,84,17,209
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",7/1/2020,2:00:00,306,306,62,12,14,52,12,306
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",7/1/2020,2:00:00,306,306,62,12,14,98,2,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",7/1/2020,2:00:00,285,165,43,16,15,79,21,285
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",7/1/2020,2:00:00,270,306,49,12,15,51,28,270
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",7/1/2020,2:00:00,232,131,47,10,7,39,18,232
+Delhi,Delhi,"Narela, Delhi - DPCC",7/1/2020,2:00:00,244,138,52,12,14,40,18,244
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",7/1/2020,2:00:00,280,153,48,17,19,48,7,280
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",7/1/2020,2:00:00,306,306,62,12,14,54,16,306
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",7/1/2020,2:00:00,258,146,52,10,21,67,10,258
+Delhi,Delhi,"Patparganj, Delhi - DPCC",7/1/2020,2:00:00,238,145,23,18,5,48,6,238
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",7/1/2020,2:00:00,247,141,68,9,23,67,8,247
+Delhi,Delhi,"Pusa, Delhi - DPCC",7/1/2020,2:00:00,252,133,51,13,17,49,10,252
+Delhi,Delhi,"Pusa, Delhi - IMD",7/1/2020,2:00:00,161,118,55,12,14,38,21,161
+Delhi,Delhi,"R K Puram, Delhi - DPCC",7/1/2020,2:00:00,143,134,69,5,17,46,24,143
+Delhi,Delhi,"Rohini, Delhi - DPCC",7/1/2020,2:00:00,290,306,29,15,6,56,8,290
+Delhi,Delhi,"Shadipur, Delhi - CPCB",7/1/2020,2:00:00,303,306,103,12,18,67,3,303
+Delhi,Delhi,"Sirifort, Delhi - CPCB",7/1/2020,2:00:00,244,166,55,6,6,51,17,244
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",7/1/2020,2:00:00,294,177,45,12,13,71,25,294
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",7/1/2020,2:00:00,222,114,54,10,11,52,16,222
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",7/1/2020,2:00:00,294,163,15,10,30,58,17,294
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",7/1/2020,2:00:00,316,193,25,13,11,97,10,316
+Delhi,Delhi,"Alipur, Delhi - DPCC",7/1/2020,3:00:00,221,116,37,6,12,61,13,221
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",7/1/2020,3:00:00,296,173,56,9,27,92,65,296
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",7/1/2020,3:00:00,281,147,45,9,14,51,9,281
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",7/1/2020,3:00:00,193,128,5,12,14,71,34,193
+Delhi,Delhi,"Bawana, Delhi - DPCC",7/1/2020,3:00:00,298,167,53,17,18,68,19,298
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",7/1/2020,3:00:00,226,130,65,12,14,3,10,226
+Delhi,Delhi,"DTU, Delhi - CPCB",7/1/2020,3:00:00,271,141,28,5,6,75,30,271
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",7/1/2020,3:00:00,306,306,62,12,14,44,4,306
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",7/1/2020,3:00:00,260,174,65,6,15,58,14,260
+Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",7/1/2020,3:00:00,306,306,62,12,14,51,11,306
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",7/1/2020,3:00:00,182,306,63,8,6,48,21,182
+Delhi,Delhi,"ITO, Delhi - CPCB",7/1/2020,3:00:00,249,123,60,3,7,91,7,249
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",7/1/2020,3:00:00,289,162,205,22,14,74,5,289
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",7/1/2020,3:00:00,242,140,91,14,25,56,31,242
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",7/1/2020,3:00:00,222,140,34,12,14,86,17,222
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",7/1/2020,3:00:00,306,306,62,12,14,52,12,306
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",7/1/2020,3:00:00,306,306,62,12,14,101,3,306
+Delhi,Delhi,"Mundka, Delhi - DPCC",7/1/2020,3:00:00,284,163,44,16,15,84,21,284
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",7/1/2020,3:00:00,265,306,50,12,14,51,21,265
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",7/1/2020,3:00:00,227,127,49,10,7,39,20,227
+Delhi,Delhi,"Narela, Delhi - DPCC",7/1/2020,3:00:00,242,138,52,12,14,40,21,242
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",7/1/2020,3:00:00,281,152,49,17,19,49,9,281
+Delhi,Delhi,"North Campus, DU, Delhi - IMD",7/1/2020,3:00:00,306,306,62,12,14,53,18,306
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",7/1/2020,3:00:00,263,147,51,10,21,67,13,263
+Delhi,Delhi,"Patparganj, Delhi - DPCC",7/1/2020,3:00:00,241,145,23,18,5,50,5,241
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",7/1/2020,3:00:00,252,142,70,9,23,73,7,252
+Delhi,Delhi,"Pusa, Delhi - DPCC",7/1/2020,3:00:00,253,132,52,13,17,52,10,253
+Delhi,Delhi,"Pusa, Delhi - IMD",7/1/2020,3:00:00,164,119,56,12,14,39,19,164
+Delhi,Delhi,"R K Puram, Delhi - DPCC",7/1/2020,3:00:00,144,134,69,5,17,48,24,144
+Delhi,Delhi,"Rohini, Delhi - DPCC",7/1/2020,3:00:00,291,306,30,15,6,60,10,291
+Delhi,Delhi,"Shadipur, Delhi - CPCB",7/1/2020,3:00:00,303,306,102,12,17,66,4,303
+Delhi,Delhi,"Sirifort, Delhi - CPCB",7/1/2020,3:00:00,246,166,55,6,6,52,18,246
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",7/1/2020,3:00:00,293,176,46,12,14,76,28,293
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",7/1/2020,3:00:00,228,115,53,10,11,53,21,228
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",7/1/2020,3:00:00,296,163,15,10,30,63,18,296
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",7/1/2020,3:00:00,318,193,25,13,11,101,10,318
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",3/1/2020,10:00:00,132,118,18,10,43,55,24,132
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",3/1/2020,10:00:00,66,76,23,1,5,33,32,76
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",3/1/2020,10:00:00,345,194,30,2,54,79,5,345
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",3/1/2020,10:00:00,232,193,46,9,14,87,9,232
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",5/1/2020,6:00:00,120,113,22,10,57,36,24,120
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",5/1/2020,6:00:00,169,148,41,10,44,53,21,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",5/1/2020,6:00:00,265,162,31,2,88,64,5,265
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",5/1/2020,6:00:00,143,155,80,16,10,30,20,155
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",6/1/2020,3:00:00,69,86,16,10,43,39,24,86
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",6/1/2020,3:00:00,169,148,41,10,44,7,48,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",6/1/2020,3:00:00,261,194,27,2,92,83,5,261
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",6/1/2020,3:00:00,81,105,67,14,11,28,14,105
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",6/1/2020,6:00:00,71,90,17,10,47,37,24,90
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",6/1/2020,6:00:00,169,148,41,10,44,27,52,178
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",6/1/2020,6:00:00,169,148,41,10,44,18,50,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",6/1/2020,6:00:00,258,192,24,2,87,65,5,258
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",6/1/2020,6:00:00,85,106,67,14,12,34,20,106
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",6/1/2020,11:00:00,83,103,21,10,48,65,24,103
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",6/1/2020,11:00:00,169,148,41,10,44,88,21,178
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",6/1/2020,11:00:00,169,148,41,10,44,30,28,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",6/1/2020,11:00:00,265,205,28,2,73,67,5,265
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",6/1/2020,11:00:00,118,147,76,16,12,65,12,147
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",7/1/2020,12:00:00,89,107,22,10,48,69,24,107
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",7/1/2020,12:00:00,169,148,41,10,44,83,21,178
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",7/1/2020,12:00:00,169,148,41,10,44,33,23,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",7/1/2020,12:00:00,263,203,27,2,72,71,5,263
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",7/1/2020,12:00:00,128,153,79,16,12,71,8,153
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",7/1/2020,2:00:00,133,144,30,10,64,40,24,144
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",7/1/2020,2:00:00,172,136,15,21,53,40,41,172
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",7/1/2020,2:00:00,169,148,41,10,44,53,21,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",7/1/2020,2:00:00,281,195,35,2,46,92,5,281
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",7/1/2020,2:00:00,162,175,107,20,20,47,9,175
+Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",7/1/2020,3:00:00,135,145,30,10,66,41,24,145
+Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",7/1/2020,3:00:00,169,135,15,21,52,38,48,169
+Gujarat,GandhiNagar,"Sector-10, Gandhinagar - GPCB",7/1/2020,3:00:00,169,148,41,10,44,53,21,178
+Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",7/1/2020,3:00:00,282,194,36,2,46,88,5,282
+Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",7/1/2020,3:00:00,168,177,109,21,23,43,11,177
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",3/1/2020,10:00:00,259,171,92,12,30,42,85,259
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",3/1/2020,10:00:00,223,119,95,17,20,53,26,223
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",3/1/2020,10:00:00,289,274,139,21,8,65,7,289
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",3/1/2020,10:00:00,262,145,53,3,30,68,70,262
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",3/1/2020,10:00:00,179,135,43,10,20,76,43,189
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",3/1/2020,10:00:00,302,135,43,10,60,65,33,302
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",3/1/2020,10:00:00,152,134,43,12,17,53,28,152
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",3/1/2020,10:00:00,261,210,32,10,20,100,38,261
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",3/1/2020,10:00:00,316,135,72,10,4,72,11,316
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",3/1/2020,10:00:00,224,130,69,13,21,59,15,224
+Haryana,Jind,"Police Lines, Jind - HSPCB",3/1/2020,10:00:00,240,132,9,5,9,46,41,240
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",3/1/2020,10:00:00,153,134,61,18,7,41,16,153
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",3/1/2020,10:00:00,179,135,43,10,20,48,26,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",3/1/2020,10:00:00,204,160,51,26,45,38,24,204
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",3/1/2020,10:00:00,216,145,40,4,25,35,41,216
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",3/1/2020,10:00:00,183,142,30,19,13,67,34,183
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",3/1/2020,10:00:00,179,135,43,10,20,69,45,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",3/1/2020,10:00:00,238,111,7,9,8,34,14,238
+Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",3/1/2020,10:00:00,276,181,16,34,4,69,9,276
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",3/1/2020,10:00:00,72,135,29,10,23,76,26,76
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",3/1/2020,10:00:00,303,300,84,10,45,27,49,303
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",3/1/2020,10:00:00,179,135,10,10,9,58,35,179
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",3/1/2020,10:00:00,179,135,43,10,20,27,46,189
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",3/1/2020,10:00:00,110,224,39,7,32,128,7,224
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",3/1/2020,10:00:00,195,141,40,8,21,33,41,195
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",5/1/2020,6:00:00,203,150,62,10,6,24,158,203
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",5/1/2020,6:00:00,167,106,69,7,13,65,27,167
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",5/1/2020,6:00:00,179,135,43,10,20,1,16,189
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",5/1/2020,6:00:00,276,144,39,4,20,28,97,276
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",5/1/2020,6:00:00,110,171,73,11,21,57,62,171
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",5/1/2020,6:00:00,307,135,43,10,45,42,106,307
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",5/1/2020,6:00:00,179,135,43,10,20,26,40,189
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",5/1/2020,6:00:00,179,135,43,10,20,104,41,189
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",5/1/2020,6:00:00,293,135,72,10,6,17,54,293
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",5/1/2020,6:00:00,298,157,75,11,17,53,21,298
+Haryana,Jind,"Police Lines, Jind - HSPCB",5/1/2020,6:00:00,301,152,8,5,8,26,48,301
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",5/1/2020,6:00:00,134,126,50,18,5,41,16,134
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",5/1/2020,6:00:00,251,156,40,23,51,22,28,251
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",5/1/2020,6:00:00,243,139,24,3,20,20,55,243
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",5/1/2020,6:00:00,224,149,25,17,13,60,56,224
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",5/1/2020,6:00:00,179,135,43,10,20,46,12,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",5/1/2020,6:00:00,246,128,7,10,8,46,12,246
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",5/1/2020,6:00:00,108,135,28,10,19,5,42,108
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",5/1/2020,6:00:00,179,135,43,10,20,26,84,189
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",5/1/2020,6:00:00,273,135,8,10,10,35,39,273
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",5/1/2020,6:00:00,112,132,3,1,50,48,44,132
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",5/1/2020,6:00:00,94,230,50,6,20,124,7,230
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",5/1/2020,6:00:00,268,156,39,8,17,24,42,268
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",6/1/2020,3:00:00,86,94,50,9,7,23,122,122
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",6/1/2020,3:00:00,165,106,68,8,13,97,16,165
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",6/1/2020,3:00:00,348,278,95,13,8,71,5,348
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",6/1/2020,3:00:00,261,138,41,3,15,45,56,261
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",6/1/2020,3:00:00,113,173,61,11,23,71,36,173
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",6/1/2020,3:00:00,298,135,43,10,45,80,33,298
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",6/1/2020,3:00:00,147,132,30,17,8,29,8,147
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",6/1/2020,3:00:00,296,179,25,10,20,104,24,296
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",6/1/2020,3:00:00,288,135,84,10,9,72,12,288
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",6/1/2020,3:00:00,294,142,64,12,13,83,10,294
+Haryana,Jind,"Police Lines, Jind - HSPCB",6/1/2020,3:00:00,296,138,8,5,6,44,8,296
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",6/1/2020,3:00:00,112,101,48,15,4,44,5,112
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",6/1/2020,3:00:00,179,135,43,10,20,6,28,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",6/1/2020,3:00:00,187,128,38,25,56,40,6,187
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",6/1/2020,3:00:00,158,113,25,3,20,29,11,158
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",6/1/2020,3:00:00,192,150,24,15,12,37,34,192
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",6/1/2020,3:00:00,179,135,43,10,20,28,33,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",6/1/2020,3:00:00,220,135,8,10,8,37,12,220
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",6/1/2020,3:00:00,116,135,29,10,12,3,9,116
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",6/1/2020,3:00:00,252,230,102,6,37,26,8,252
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",6/1/2020,3:00:00,253,135,8,10,9,54,28,253
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",6/1/2020,3:00:00,102,123,3,1,51,36,11,123
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",6/1/2020,3:00:00,89,214,50,6,25,122,7,214
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",6/1/2020,3:00:00,120,106,30,8,18,26,21,120
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",6/1/2020,6:00:00,87,89,52,9,8,25,84,89
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",6/1/2020,6:00:00,167,110,70,8,12,90,18,167
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",6/1/2020,6:00:00,353,271,93,12,8,52,8,353
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",6/1/2020,6:00:00,255,136,41,3,17,38,79,255
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",6/1/2020,6:00:00,126,179,65,11,23,60,45,179
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",6/1/2020,6:00:00,310,135,43,10,48,65,47,310
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",6/1/2020,6:00:00,134,126,29,17,7,26,13,134
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",6/1/2020,6:00:00,290,178,26,10,20,103,34,290
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",6/1/2020,6:00:00,297,135,91,10,9,59,10,297
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",6/1/2020,6:00:00,290,140,63,12,13,73,14,290
+Haryana,Jind,"Police Lines, Jind - HSPCB",6/1/2020,6:00:00,288,135,8,5,6,35,16,288
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",6/1/2020,6:00:00,109,96,48,15,6,40,7,109
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",6/1/2020,6:00:00,179,135,43,10,20,6,26,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",6/1/2020,6:00:00,180,123,41,25,56,43,5,180
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",6/1/2020,6:00:00,157,110,26,3,24,26,14,157
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",6/1/2020,6:00:00,205,156,23,15,12,38,40,205
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",6/1/2020,6:00:00,179,135,43,10,20,32,31,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",6/1/2020,6:00:00,223,133,7,9,8,33,13,223
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",6/1/2020,6:00:00,114,135,28,10,10,4,7,114
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",6/1/2020,6:00:00,251,232,100,5,31,26,11,251
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",6/1/2020,6:00:00,261,135,9,10,9,52,29,261
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",6/1/2020,6:00:00,95,115,3,1,52,31,14,115
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",6/1/2020,6:00:00,90,224,49,6,26,121,7,224
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",6/1/2020,6:00:00,119,102,31,8,18,28,16,119
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",6/1/2020,11:00:00,79,77,56,8,10,30,48,79
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",6/1/2020,11:00:00,165,112,74,9,13,87,13,165
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",6/1/2020,11:00:00,342,253,85,12,8,44,7,342
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",6/1/2020,11:00:00,233,128,40,3,24,36,82,233
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",6/1/2020,11:00:00,133,187,66,11,24,70,30,187
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",6/1/2020,11:00:00,309,135,43,10,49,63,34,309
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",6/1/2020,11:00:00,116,113,24,16,6,17,21,116
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",6/1/2020,11:00:00,273,175,27,10,20,104,32,273
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",6/1/2020,11:00:00,290,135,94,10,9,66,10,290
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",6/1/2020,11:00:00,252,125,60,12,13,162,13,252
+Haryana,Jind,"Police Lines, Jind - HSPCB",6/1/2020,11:00:00,267,125,8,5,5,16,26,267
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",6/1/2020,11:00:00,99,85,47,16,6,35,8,99
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",6/1/2020,11:00:00,179,135,43,10,20,20,18,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",6/1/2020,11:00:00,169,112,42,26,57,31,7,169
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",6/1/2020,11:00:00,150,100,27,3,24,25,14,150
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",6/1/2020,11:00:00,199,159,24,15,13,58,30,199
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",6/1/2020,11:00:00,179,135,43,10,20,38,17,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",6/1/2020,11:00:00,232,124,7,10,8,26,11,232
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",6/1/2020,11:00:00,80,135,28,10,10,5,5,80
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",6/1/2020,11:00:00,233,217,93,6,30,20,26,233
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",6/1/2020,11:00:00,238,135,10,10,9,40,28,238
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",6/1/2020,11:00:00,79,100,3,1,52,25,17,100
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",6/1/2020,11:00:00,85,218,50,6,27,120,7,218
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",6/1/2020,11:00:00,123,96,37,8,17,39,8,123
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",7/1/2020,12:00:00,77,75,56,8,11,29,48,77
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",7/1/2020,12:00:00,163,111,75,9,11,91,10,163
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",7/1/2020,12:00:00,337,249,82,12,8,44,6,337
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",7/1/2020,12:00:00,228,125,39,3,26,36,85,228
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",7/1/2020,12:00:00,131,188,67,11,24,71,24,188
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",7/1/2020,12:00:00,304,135,43,10,49,61,31,304
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",7/1/2020,12:00:00,112,110,23,16,6,16,22,112
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",7/1/2020,12:00:00,269,173,26,10,20,104,30,269
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",7/1/2020,12:00:00,285,135,94,10,10,63,5,285
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",7/1/2020,12:00:00,246,122,60,12,14,151,12,246
+Haryana,Jind,"Police Lines, Jind - HSPCB",7/1/2020,12:00:00,256,121,8,5,5,14,27,256
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",7/1/2020,12:00:00,97,82,47,16,6,35,8,97
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",7/1/2020,12:00:00,179,135,43,10,20,22,15,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",7/1/2020,12:00:00,167,110,42,26,57,29,8,167
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",7/1/2020,12:00:00,146,98,27,3,24,26,14,146
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",7/1/2020,12:00:00,197,159,24,15,13,61,26,197
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",7/1/2020,12:00:00,179,135,43,10,20,40,12,189
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",7/1/2020,12:00:00,231,123,7,9,8,26,11,231
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",7/1/2020,12:00:00,75,135,27,10,10,5,3,75
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",7/1/2020,12:00:00,226,213,92,6,30,19,27,226
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",7/1/2020,12:00:00,230,135,11,10,9,36,28,230
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",7/1/2020,12:00:00,75,96,3,1,52,25,17,96
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",7/1/2020,12:00:00,83,213,50,6,28,120,7,213
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",7/1/2020,12:00:00,124,95,37,8,16,40,6,124
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",7/1/2020,2:00:00,63,56,54,8,12,21,52,63
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",7/1/2020,2:00:00,114,94,81,9,10,97,5,114
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",7/1/2020,2:00:00,214,152,47,8,5,55,4,214
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",7/1/2020,2:00:00,144,100,36,2,28,39,65,144
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",7/1/2020,2:00:00,105,149,69,11,25,66,11,149
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",7/1/2020,2:00:00,232,135,43,10,42,55,27,232
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",7/1/2020,2:00:00,56,66,14,9,6,26,14,66
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",7/1/2020,2:00:00,179,135,43,10,20,103,24,189
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",7/1/2020,2:00:00,180,135,86,10,8,40,7,180
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",7/1/2020,2:00:00,130,84,56,12,16,149,10,149
+Haryana,Jind,"Police Lines, Jind - HSPCB",7/1/2020,2:00:00,116,69,6,4,6,20,19,116
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",7/1/2020,2:00:00,50,47,42,16,5,32,9,50
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",7/1/2020,2:00:00,179,135,32,3,17,14,12,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",7/1/2020,2:00:00,92,72,39,23,55,20,8,92
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",7/1/2020,2:00:00,71,59,22,2,19,19,13,71
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",7/1/2020,2:00:00,202,177,19,12,20,48,29,202
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",7/1/2020,2:00:00,111,106,67,22,26,36,19,111
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",7/1/2020,2:00:00,169,98,7,8,8,27,13,169
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",7/1/2020,2:00:00,45,135,23,10,9,6,10,45
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",7/1/2020,2:00:00,139,151,80,9,32,19,34,151
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",7/1/2020,2:00:00,151,135,14,10,10,47,26,151
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",7/1/2020,2:00:00,44,55,3,1,49,27,10,55
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",7/1/2020,2:00:00,58,194,47,7,30,118,7,194
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",7/1/2020,2:00:00,104,76,39,6,11,41,6,104
+Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",7/1/2020,3:00:00,62,55,55,8,12,21,54,62
+Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",7/1/2020,3:00:00,109,93,83,9,10,99,8,109
+Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",7/1/2020,3:00:00,211,150,45,8,5,56,5,211
+Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",7/1/2020,3:00:00,139,100,37,3,28,39,69,139
+Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",7/1/2020,3:00:00,107,148,65,10,29,75,18,148
+Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",7/1/2020,3:00:00,234,135,43,10,41,55,32,234
+Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",7/1/2020,3:00:00,54,65,14,9,7,27,14,65
+Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",7/1/2020,3:00:00,179,135,43,10,20,103,24,189
+Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",7/1/2020,3:00:00,173,135,85,10,9,43,13,173
+Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",7/1/2020,3:00:00,126,84,57,12,17,135,11,135
+Haryana,Jind,"Police Lines, Jind - HSPCB",7/1/2020,3:00:00,105,64,6,4,6,20,21,105
+Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",7/1/2020,3:00:00,49,45,42,16,4,33,9,49
+Haryana,Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",7/1/2020,3:00:00,179,135,32,3,17,15,13,189
+Haryana,Karnal,"Sector-12, Karnal - HSPCB",7/1/2020,3:00:00,85,70,39,23,55,22,8,85
+Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",7/1/2020,3:00:00,69,58,22,2,17,20,12,69
+Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",7/1/2020,3:00:00,202,175,20,13,20,39,30,202
+Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",7/1/2020,3:00:00,106,105,68,22,30,35,24,106
+Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",7/1/2020,3:00:00,166,97,7,8,8,27,13,166
+Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",7/1/2020,3:00:00,43,135,22,10,9,7,10,43
+Haryana,Panipat,"Sector-18, Panipat - HSPCB",7/1/2020,3:00:00,138,147,79,9,33,21,35,147
+Haryana,Rohtak,"MD University, Rohtak - HSPCB",7/1/2020,3:00:00,146,135,14,10,10,49,27,146
+Haryana,Sirsa,"F-Block, Sirsa - HSPCB",7/1/2020,3:00:00,44,54,3,1,49,29,9,54
+Haryana,Sonipat,"Murthal, Sonipat - HSPCB",7/1/2020,3:00:00,55,177,48,7,30,118,7,177
+Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",7/1/2020,3:00:00,101,74,41,6,10,46,6,101
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",3/1/2020,10:00:00,79,98,11,2,29,51,18,98
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",5/1/2020,6:00:00,85,112,11,2,28,51,38,112
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",6/1/2020,3:00:00,78,120,10,2,32,51,33,120
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",6/1/2020,6:00:00,77,121,10,2,31,51,41,121
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",6/1/2020,11:00:00,94,145,11,2,30,51,25,145
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",7/1/2020,12:00:00,97,148,11,2,30,51,21,148
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",7/1/2020,2:00:00,131,165,11,2,28,51,38,165
+Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",7/1/2020,3:00:00,131,165,12,2,29,51,42,165
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",3/1/2020,10:00:00,33,65,23,3,7,46,27,46
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",3/1/2020,10:00:00,88,65,46,3,7,24,21,88
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",3/1/2020,10:00:00,36,56,40,1,10,34,58,58
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",3/1/2020,10:00:00,53,93,54,3,12,96,31,96
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",3/1/2020,10:00:00,48,70,32,2,10,37,43,70
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",3/1/2020,10:00:00,43,69,23,5,13,56,57,69
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",3/1/2020,10:00:00,42,77,43,3,4,68,41,77
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",3/1/2020,10:00:00,56,65,39,5,4,61,31,61
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",3/1/2020,10:00:00,53,41,10,3,9,44,31,44
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",3/1/2020,10:00:00,48,71,18,3,4,57,25,71
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",3/1/2020,10:00:00,68,94,40,1,3,25,1,94
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",3/1/2020,10:00:00,57,45,29,8,7,29,44,57
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",3/1/2020,10:00:00,29,50,26,2,35,37,17,50
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",3/1/2020,10:00:00,51,49,24,1,24,49,27,51
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",5/1/2020,6:00:00,56,65,31,3,11,39,42,56
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",5/1/2020,6:00:00,139,65,46,3,8,44,25,139
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",5/1/2020,6:00:00,97,104,55,1,11,19,182,182
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",5/1/2020,6:00:00,53,105,68,3,13,90,31,105
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",5/1/2020,6:00:00,117,108,39,4,8,22,81,117
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",5/1/2020,6:00:00,129,116,24,6,14,62,102,129
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",5/1/2020,6:00:00,121,161,62,4,11,56,66,161
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",5/1/2020,6:00:00,127,65,49,6,5,52,31,127
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",5/1/2020,6:00:00,53,43,10,3,5,46,31,46
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",5/1/2020,6:00:00,53,65,31,3,11,48,32,69
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",5/1/2020,6:00:00,92,105,47,1,3,12,1,105
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",5/1/2020,6:00:00,50,39,15,4,6,16,69,69
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",5/1/2020,6:00:00,65,79,29,2,33,25,27,79
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",5/1/2020,6:00:00,100,78,16,1,22,34,50,100
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",6/1/2020,3:00:00,22,65,31,3,6,31,21,31
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",6/1/2020,3:00:00,77,65,41,3,8,35,9,77
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",6/1/2020,3:00:00,53,65,31,3,11,46,31,69
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",6/1/2020,3:00:00,53,86,57,3,12,95,31,95
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",6/1/2020,3:00:00,56,70,33,3,15,52,16,70
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",6/1/2020,3:00:00,53,68,21,5,14,60,45,68
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",6/1/2020,3:00:00,51,84,48,3,11,89,27,89
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",6/1/2020,3:00:00,59,65,36,5,4,62,31,62
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",6/1/2020,3:00:00,53,45,12,3,3,47,31,47
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",6/1/2020,3:00:00,53,65,31,3,11,50,24,69
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",6/1/2020,3:00:00,53,65,31,3,11,38,42,69
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",6/1/2020,3:00:00,62,83,29,1,3,19,1,83
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",6/1/2020,3:00:00,51,40,16,5,6,20,33,51
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",6/1/2020,3:00:00,39,43,17,2,30,18,20,43
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",6/1/2020,3:00:00,99,79,16,1,20,48,31,99
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",6/1/2020,6:00:00,22,65,31,3,7,31,24,31
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",6/1/2020,6:00:00,74,65,43,3,8,25,10,74
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",6/1/2020,6:00:00,53,65,31,3,11,64,45,69
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",6/1/2020,6:00:00,53,86,56,3,12,94,31,94
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",6/1/2020,6:00:00,54,71,36,3,15,56,17,71
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",6/1/2020,6:00:00,50,66,22,5,14,60,51,66
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",6/1/2020,6:00:00,48,80,48,3,11,96,30,96
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",6/1/2020,6:00:00,60,65,36,5,4,59,31,60
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",6/1/2020,6:00:00,53,46,12,3,3,46,31,46
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",6/1/2020,6:00:00,53,65,31,3,11,49,24,69
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",6/1/2020,6:00:00,53,65,31,3,11,44,40,69
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",6/1/2020,6:00:00,63,87,31,1,3,19,1,87
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",6/1/2020,6:00:00,50,40,16,5,6,16,45,50
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",6/1/2020,6:00:00,37,43,17,2,30,19,23,43
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",6/1/2020,6:00:00,98,78,16,1,19,43,49,98
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",6/1/2020,11:00:00,21,65,31,3,7,29,24,29
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",6/1/2020,11:00:00,58,65,45,3,8,26,7,58
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",6/1/2020,11:00:00,53,65,31,3,11,28,23,69
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",6/1/2020,11:00:00,53,81,54,3,13,94,31,94
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",6/1/2020,11:00:00,45,64,35,2,15,64,11,64
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",6/1/2020,11:00:00,34,54,22,5,14,64,41,64
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",6/1/2020,11:00:00,38,68,48,3,11,91,27,91
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",6/1/2020,11:00:00,54,65,37,5,3,63,31,63
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",6/1/2020,11:00:00,53,46,12,3,4,46,31,46
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",6/1/2020,11:00:00,53,65,31,3,11,57,27,69
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",6/1/2020,11:00:00,53,65,31,3,11,42,34,69
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",6/1/2020,11:00:00,56,85,36,1,3,18,1,85
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",6/1/2020,11:00:00,46,36,10,3,6,22,35,46
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",6/1/2020,11:00:00,31,43,16,2,33,38,17,43
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",6/1/2020,11:00:00,97,73,14,1,18,51,56,97
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",7/1/2020,12:00:00,20,65,31,3,7,31,24,31
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",7/1/2020,12:00:00,57,65,46,3,8,24,7,57
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",7/1/2020,12:00:00,53,65,31,3,11,28,23,69
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",7/1/2020,12:00:00,53,79,55,3,13,94,31,94
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",7/1/2020,12:00:00,44,64,35,2,15,62,12,64
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",7/1/2020,12:00:00,32,53,22,5,14,63,40,63
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",7/1/2020,12:00:00,37,67,48,3,11,86,27,86
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",7/1/2020,12:00:00,54,65,37,5,3,64,31,64
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",7/1/2020,12:00:00,53,46,12,3,4,46,31,46
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",7/1/2020,12:00:00,53,65,31,3,11,57,27,69
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",7/1/2020,12:00:00,53,65,31,3,11,42,33,69
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",7/1/2020,12:00:00,54,84,36,1,3,18,1,84
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",7/1/2020,12:00:00,44,35,8,3,6,24,32,44
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",7/1/2020,12:00:00,27,41,16,2,33,38,16,41
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",7/1/2020,12:00:00,95,72,14,1,18,52,55,95
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",7/1/2020,2:00:00,20,65,31,3,6,29,20,29
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",7/1/2020,2:00:00,54,65,48,3,8,29,7,54
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",7/1/2020,2:00:00,32,56,50,1,11,39,31,56
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",7/1/2020,2:00:00,53,76,56,3,13,93,31,93
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",7/1/2020,2:00:00,42,61,36,2,17,44,16,61
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",7/1/2020,2:00:00,25,49,23,5,14,61,43,61
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",7/1/2020,2:00:00,44,69,49,3,11,75,27,75
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",7/1/2020,2:00:00,53,65,37,5,4,53,31,53
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",7/1/2020,2:00:00,53,43,12,3,6,44,31,44
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",7/1/2020,2:00:00,38,62,22,2,4,49,28,62
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",7/1/2020,2:00:00,20,35,13,2,16,43,32,43
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",7/1/2020,2:00:00,35,75,34,1,3,20,1,75
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",7/1/2020,2:00:00,27,22,4,2,6,17,32,32
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",7/1/2020,2:00:00,19,41,20,2,34,39,14,41
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",7/1/2020,2:00:00,70,60,11,1,19,43,33,70
+Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",7/1/2020,3:00:00,20,65,31,3,6,31,22,31
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",7/1/2020,3:00:00,54,65,49,3,8,28,7,54
+Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",7/1/2020,3:00:00,31,55,49,1,11,38,39,55
+Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",7/1/2020,3:00:00,53,76,56,3,13,95,31,95
+Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",7/1/2020,3:00:00,42,61,35,2,18,44,19,61
+Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",7/1/2020,3:00:00,24,48,23,5,14,60,46,60
+Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",7/1/2020,3:00:00,44,69,49,3,11,79,28,79
+Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",7/1/2020,3:00:00,53,65,37,5,4,54,31,54
+Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",7/1/2020,3:00:00,53,43,12,3,6,45,31,45
+Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",7/1/2020,3:00:00,38,62,22,2,4,47,30,62
+Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",7/1/2020,3:00:00,20,36,13,2,15,43,36,43
+Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",7/1/2020,3:00:00,34,72,34,1,3,21,1,72
+Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",7/1/2020,3:00:00,26,21,4,2,6,17,36,36
+Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",7/1/2020,3:00:00,19,41,20,2,33,37,16,41
+Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",7/1/2020,3:00:00,70,60,11,1,20,46,35,70
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",3/1/2020,10:00:00,27,112,11,5,11,29,62,112
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",3/1/2020,10:00:00,70,68,33,4,11,44,37,70
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",5/1/2020,6:00:00,36,103,9,5,11,37,73,103
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",5/1/2020,6:00:00,32,38,20,3,11,38,59,59
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",6/1/2020,3:00:00,27,110,9,5,20,55,47,110
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",6/1/2020,3:00:00,75,77,30,4,11,50,46,77
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",6/1/2020,6:00:00,25,107,9,5,33,38,70,107
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",6/1/2020,6:00:00,70,76,31,4,11,45,57,76
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",6/1/2020,11:00:00,22,103,9,5,37,18,64,103
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",6/1/2020,11:00:00,64,74,34,3,12,62,40,74
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",7/1/2020,12:00:00,9,102,9,5,38,19,54,102
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",7/1/2020,12:00:00,61,72,36,3,12,66,35,72
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",7/1/2020,2:00:00,17,103,9,5,37,58,39,103
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",7/1/2020,2:00:00,56,62,36,3,12,43,39,62
+Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",7/1/2020,3:00:00,19,103,9,5,36,54,48,103
+Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",7/1/2020,3:00:00,55,62,36,3,12,43,44,62
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",3/1/2020,10:00:00,214,133,50,6,7,65,46,214
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",3/1/2020,10:00:00,76,69,19,6,14,15,41,76
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",3/1/2020,10:00:00,155,111,25,9,12,81,35,155
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",3/1/2020,10:00:00,146,108,62,5,12,84,33,146
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",3/1/2020,10:00:00,86,82,48,3,6,80,24,86
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",3/1/2020,10:00:00,114,85,62,18,9,34,29,114
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",3/1/2020,10:00:00,106,111,10,6,10,27,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",3/1/2020,10:00:00,62,98,20,7,19,39,31,98
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",3/1/2020,10:00:00,130,100,13,6,8,26,16,130
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",3/1/2020,10:00:00,175,164,54,6,3,37,41,175
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",3/1/2020,10:00:00,12,54,43,6,22,18,41,54
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",3/1/2020,10:00:00,106,111,43,6,14,48,63,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",3/1/2020,10:00:00,190,125,32,6,3,73,59,190
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",5/1/2020,6:00:00,177,130,63,6,5,36,71,177
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",5/1/2020,6:00:00,87,67,19,6,14,14,41,87
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",5/1/2020,6:00:00,91,77,22,9,7,48,26,91
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",5/1/2020,6:00:00,111,86,69,4,9,26,39,111
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",5/1/2020,6:00:00,153,130,58,4,7,49,44,153
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",5/1/2020,6:00:00,147,111,58,16,7,20,52,147
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",5/1/2020,6:00:00,83,117,22,7,18,26,34,117
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",5/1/2020,6:00:00,137,106,19,5,8,20,18,137
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",5/1/2020,6:00:00,65,103,57,6,3,37,41,103
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",5/1/2020,6:00:00,15,75,43,6,20,8,41,75
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",5/1/2020,6:00:00,164,117,41,3,56,55,81,164
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",5/1/2020,6:00:00,148,99,32,5,4,41,72,148
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",6/1/2020,3:00:00,100,95,51,5,10,28,67,100
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",6/1/2020,3:00:00,168,111,19,6,14,14,41,168
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",6/1/2020,3:00:00,69,67,20,8,9,40,46,69
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",6/1/2020,3:00:00,85,93,80,4,14,25,41,93
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",6/1/2020,3:00:00,175,168,68,4,7,42,39,175
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",6/1/2020,3:00:00,265,215,80,15,25,39,43,265
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",6/1/2020,3:00:00,106,111,10,6,10,25,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",6/1/2020,3:00:00,58,93,21,6,17,36,21,93
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",6/1/2020,3:00:00,80,89,20,4,13,15,15,89
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",6/1/2020,3:00:00,104,106,58,6,3,37,41,106
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",6/1/2020,3:00:00,29,156,43,6,21,26,41,156
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",6/1/2020,3:00:00,106,111,43,6,14,54,79,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",6/1/2020,3:00:00,95,88,30,4,4,31,60,95
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",6/1/2020,6:00:00,100,95,51,4,12,33,75,100
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",6/1/2020,6:00:00,167,111,19,6,14,14,41,167
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",6/1/2020,6:00:00,66,65,20,8,8,29,52,66
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",6/1/2020,6:00:00,82,91,78,4,14,23,42,91
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",6/1/2020,6:00:00,172,168,68,4,7,47,50,172
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",6/1/2020,6:00:00,265,219,86,16,25,34,51,265
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",6/1/2020,6:00:00,106,111,10,6,10,24,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",6/1/2020,6:00:00,58,96,22,6,18,26,26,96
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",6/1/2020,6:00:00,76,87,20,4,13,15,17,87
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",6/1/2020,6:00:00,112,108,59,6,3,37,41,112
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",6/1/2020,6:00:00,26,153,43,6,22,25,41,153
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",6/1/2020,6:00:00,106,111,43,6,14,51,73,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",6/1/2020,6:00:00,94,91,29,4,6,31,80,94
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",6/1/2020,11:00:00,82,92,58,4,16,70,38,92
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",6/1/2020,11:00:00,126,94,19,6,14,14,41,126
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",6/1/2020,11:00:00,61,61,21,8,8,31,36,61
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",6/1/2020,11:00:00,82,97,78,4,15,66,40,97
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",6/1/2020,11:00:00,164,155,67,3,7,78,26,164
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",6/1/2020,11:00:00,216,178,90,15,24,55,33,216
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",6/1/2020,11:00:00,106,111,11,6,10,23,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",6/1/2020,11:00:00,66,114,28,6,22,53,22,114
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",6/1/2020,11:00:00,70,87,22,4,21,21,14,87
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",6/1/2020,11:00:00,95,114,56,6,3,37,41,114
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",6/1/2020,11:00:00,21,134,43,6,22,14,41,134
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",6/1/2020,11:00:00,106,111,43,6,14,48,26,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",6/1/2020,11:00:00,103,98,26,4,7,76,47,103
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",7/1/2020,12:00:00,80,92,60,4,16,76,29,92
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",7/1/2020,12:00:00,115,90,19,6,14,15,41,115
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",7/1/2020,12:00:00,59,60,22,8,8,31,36,60
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",7/1/2020,12:00:00,85,100,79,4,16,72,40,100
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",7/1/2020,12:00:00,149,143,68,3,7,82,20,149
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",7/1/2020,12:00:00,215,177,91,15,24,64,28,215
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",7/1/2020,12:00:00,106,111,11,6,10,23,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",7/1/2020,12:00:00,70,119,29,6,22,60,21,119
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",7/1/2020,12:00:00,64,85,21,4,23,22,13,85
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",7/1/2020,12:00:00,89,114,56,6,3,37,41,114
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",7/1/2020,12:00:00,21,112,43,6,22,13,41,112
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",7/1/2020,12:00:00,237,238,80,3,70,49,20,238
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",7/1/2020,12:00:00,103,99,26,4,7,86,38,103
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",7/1/2020,2:00:00,106,112,68,4,25,40,59,112
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",7/1/2020,2:00:00,68,65,19,6,14,15,41,68
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",7/1/2020,2:00:00,54,67,22,8,6,24,76,76
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",7/1/2020,2:00:00,90,107,80,5,13,28,42,107
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",7/1/2020,2:00:00,133,144,69,3,12,32,34,144
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",7/1/2020,2:00:00,122,121,90,15,11,25,46,122
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",7/1/2020,2:00:00,106,111,17,6,10,25,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",7/1/2020,2:00:00,98,151,38,7,21,44,23,151
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",7/1/2020,2:00:00,67,95,23,4,40,24,19,95
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",7/1/2020,2:00:00,120,130,58,6,4,37,41,130
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",7/1/2020,2:00:00,12,103,43,6,22,11,41,103
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",7/1/2020,2:00:00,106,111,43,6,14,37,41,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",7/1/2020,2:00:00,139,124,26,4,8,65,42,139
+Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",7/1/2020,3:00:00,107,112,67,4,26,41,64,112
+Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",7/1/2020,3:00:00,68,65,19,6,14,15,41,68
+Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",7/1/2020,3:00:00,56,70,22,8,6,25,79,79
+Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",7/1/2020,3:00:00,92,109,80,5,13,29,42,109
+Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",7/1/2020,3:00:00,134,144,68,3,12,32,41,144
+Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",7/1/2020,3:00:00,121,121,89,15,11,26,50,121
+Madhya Pradesh,Maihar,"Sahilara, Maihar - KJS Cements",7/1/2020,3:00:00,106,111,17,6,10,25,41,123
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",7/1/2020,3:00:00,98,153,38,7,21,48,23,153
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",7/1/2020,3:00:00,69,96,23,4,40,23,20,96
+Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",7/1/2020,3:00:00,115,128,58,6,4,37,41,128
+Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",7/1/2020,3:00:00,12,105,43,6,22,12,41,105
+Madhya Pradesh,Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",7/1/2020,3:00:00,106,111,43,6,14,37,41,123
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",7/1/2020,3:00:00,141,125,26,4,8,62,51,141
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",3/1/2020,10:00:00,100,98,19,3,8,37,38,100
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",3/1/2020,10:00:00,136,73,11,6,4,28,14,136
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",3/1/2020,10:00:00,61,78,9,4,12,18,44,78
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",3/1/2020,10:00:00,146,188,27,8,3,60,14,188
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",3/1/2020,10:00:00,96,92,31,5,17,101,69,101
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",3/1/2020,10:00:00,169,107,1,3,11,33,15,169
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",3/1/2020,10:00:00,250,173,64,8,9,59,26,250
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",3/1/2020,10:00:00,216,133,57,2,13,33,144,216
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",3/1/2020,10:00:00,241,168,69,5,6,26,104,241
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",3/1/2020,10:00:00,213,124,22,3,8,45,83,213
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",3/1/2020,10:00:00,186,163,103,5,14,35,73,186
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",3/1/2020,10:00:00,228,137,33,4,7,47,77,228
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",3/1/2020,10:00:00,244,151,56,2,6,47,73,244
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",3/1/2020,10:00:00,240,131,62,3,8,33,103,240
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",3/1/2020,10:00:00,84,82,41,5,16,98,14,98
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",3/1/2020,10:00:00,87,78,6,1,3,38,50,87
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",3/1/2020,10:00:00,137,41,41,5,54,94,44,94
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",3/1/2020,10:00:00,240,139,54,3,20,56,103,240
+Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",3/1/2020,10:00:00,137,118,41,5,18,63,8,141
+Maharashtra,Pune,"Karve Road, Pune - MPCB",3/1/2020,10:00:00,114,99,31,5,80,81,46,114
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",3/1/2020,10:00:00,78,115,43,5,18,83,30,115
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",3/1/2020,10:00:00,137,76,56,5,30,29,58,76
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",5/1/2020,6:00:00,74,90,18,3,2,21,56,90
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",5/1/2020,6:00:00,105,82,19,8,4,8,17,105
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",5/1/2020,6:00:00,67,80,9,4,12,15,44,80
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",5/1/2020,6:00:00,166,194,27,12,4,54,8,194
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",5/1/2020,6:00:00,137,118,37,5,5,107,35,141
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",5/1/2020,6:00:00,146,120,2,3,12,34,16,146
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",5/1/2020,6:00:00,232,166,56,9,10,42,29,232
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",5/1/2020,6:00:00,214,139,60,2,11,34,160,214
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",5/1/2020,6:00:00,232,166,71,5,7,20,93,232
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",5/1/2020,6:00:00,198,128,23,4,9,43,60,198
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",5/1/2020,6:00:00,180,169,95,4,16,20,83,180
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",5/1/2020,6:00:00,206,131,32,4,8,49,44,206
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",5/1/2020,6:00:00,228,157,66,2,6,39,60,228
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",5/1/2020,6:00:00,215,134,63,3,13,21,97,215
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",5/1/2020,6:00:00,84,76,38,3,12,10,44,84
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",5/1/2020,6:00:00,100,86,9,1,10,35,66,100
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",5/1/2020,6:00:00,137,41,41,5,54,96,44,96
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",5/1/2020,6:00:00,234,142,59,3,20,40,74,234
+Maharashtra,Pune,"Karve Road, Pune - MPCB",5/1/2020,6:00:00,188,130,26,5,68,79,43,188
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",5/1/2020,6:00:00,73,110,43,5,18,98,36,110
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",5/1/2020,6:00:00,137,82,59,4,54,16,41,82
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",6/1/2020,3:00:00,63,89,19,3,5,36,47,89
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",6/1/2020,3:00:00,50,47,10,6,4,14,16,50
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",6/1/2020,3:00:00,51,76,9,4,11,16,44,76
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",6/1/2020,3:00:00,94,160,22,10,6,51,25,160
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",6/1/2020,3:00:00,137,118,41,5,7,108,18,141
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",6/1/2020,3:00:00,99,118,2,4,12,33,36,99
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",6/1/2020,3:00:00,152,138,47,7,13,44,21,152
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",6/1/2020,3:00:00,136,111,50,3,15,32,65,136
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",6/1/2020,3:00:00,144,147,66,5,11,20,73,147
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",6/1/2020,3:00:00,125,112,22,5,10,45,52,125
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",6/1/2020,3:00:00,130,151,86,5,14,27,50,151
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",6/1/2020,3:00:00,153,128,24,4,10,44,44,153
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",6/1/2020,3:00:00,144,135,56,2,7,49,28,144
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",6/1/2020,3:00:00,115,110,52,4,10,17,75,115
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",6/1/2020,3:00:00,69,76,51,3,10,18,44,76
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",6/1/2020,3:00:00,73,78,7,1,8,44,57,78
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",6/1/2020,3:00:00,137,41,41,5,56,94,44,94
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",6/1/2020,3:00:00,148,130,56,2,32,49,43,148
+Maharashtra,Pune,"Karve Road, Pune - MPCB",6/1/2020,3:00:00,171,127,27,5,69,80,44,171
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",6/1/2020,3:00:00,78,106,42,5,18,89,37,106
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",6/1/2020,3:00:00,137,89,59,5,70,27,40,89
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",6/1/2020,6:00:00,62,89,18,3,5,35,53,89
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",6/1/2020,6:00:00,50,49,11,6,4,17,16,50
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",6/1/2020,6:00:00,53,80,9,4,11,16,44,80
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",6/1/2020,6:00:00,94,161,24,12,5,56,28,161
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",6/1/2020,6:00:00,137,118,42,5,8,106,28,141
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",6/1/2020,6:00:00,104,118,3,4,12,33,36,104
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",6/1/2020,6:00:00,157,142,52,7,13,45,23,157
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",6/1/2020,6:00:00,143,113,50,3,15,28,88,143
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",6/1/2020,6:00:00,148,159,74,5,12,21,94,159
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",6/1/2020,6:00:00,128,115,23,5,10,43,79,128
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",6/1/2020,6:00:00,134,153,87,6,12,25,80,153
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",6/1/2020,6:00:00,155,133,25,4,10,34,44,155
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",6/1/2020,6:00:00,146,138,57,2,7,45,38,146
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",6/1/2020,6:00:00,117,108,53,4,10,19,92,117
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",6/1/2020,6:00:00,70,78,56,3,20,16,44,78
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",6/1/2020,6:00:00,73,80,8,1,8,43,53,80
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",6/1/2020,6:00:00,137,41,41,5,56,95,44,95
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",6/1/2020,6:00:00,150,133,55,2,31,42,68,150
+Maharashtra,Pune,"Karve Road, Pune - MPCB",6/1/2020,6:00:00,169,126,27,5,70,80,43,169
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",6/1/2020,6:00:00,75,106,43,5,18,101,35,106
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",6/1/2020,6:00:00,137,88,58,5,60,27,50,88
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",6/1/2020,11:00:00,73,94,18,3,6,55,27,94
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",6/1/2020,11:00:00,48,118,10,6,4,13,18,48
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",6/1/2020,11:00:00,44,68,9,4,11,16,44,68
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",6/1/2020,11:00:00,92,174,26,13,6,98,16,174
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",6/1/2020,11:00:00,137,118,43,5,10,103,43,141
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",6/1/2020,11:00:00,117,118,4,3,11,33,13,117
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",6/1/2020,11:00:00,164,143,59,7,13,63,16,164
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",6/1/2020,11:00:00,147,114,48,3,15,31,110,147
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",6/1/2020,11:00:00,150,149,77,5,11,37,83,150
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",6/1/2020,11:00:00,134,120,24,5,10,50,83,134
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",6/1/2020,11:00:00,142,161,88,7,10,47,70,161
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",6/1/2020,11:00:00,147,127,25,4,9,59,44,147
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",6/1/2020,11:00:00,142,137,58,2,7,49,35,142
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",6/1/2020,11:00:00,123,109,55,4,11,32,88,123
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",6/1/2020,11:00:00,71,80,59,4,23,80,44,80
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",6/1/2020,11:00:00,76,89,10,1,8,76,48,89
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",6/1/2020,11:00:00,137,41,41,5,56,84,44,84
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",6/1/2020,11:00:00,160,139,73,3,26,58,53,160
+Maharashtra,Pune,"Karve Road, Pune - MPCB",6/1/2020,11:00:00,177,128,28,5,71,91,43,177
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",6/1/2020,11:00:00,73,109,48,5,18,113,26,113
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",6/1/2020,11:00:00,137,88,58,5,48,58,35,88
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",7/1/2020,12:00:00,77,96,17,3,6,63,27,96
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",7/1/2020,12:00:00,49,118,10,6,4,13,18,49
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",7/1/2020,12:00:00,42,62,9,4,11,16,44,62
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",7/1/2020,12:00:00,93,176,26,13,6,105,12,176
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",7/1/2020,12:00:00,137,118,43,5,10,102,42,141
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",7/1/2020,12:00:00,118,118,4,3,11,33,12,118
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",7/1/2020,12:00:00,166,146,59,7,13,71,11,166
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",7/1/2020,12:00:00,145,113,47,3,15,30,99,145
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",7/1/2020,12:00:00,151,149,78,5,11,47,68,151
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",7/1/2020,12:00:00,135,119,24,5,10,57,74,135
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",7/1/2020,12:00:00,137,156,90,8,10,57,62,156
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",7/1/2020,12:00:00,139,122,25,4,9,63,44,139
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",7/1/2020,12:00:00,140,136,58,2,7,55,28,140
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",7/1/2020,12:00:00,124,108,56,4,11,38,76,124
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",7/1/2020,12:00:00,70,80,60,4,23,92,44,92
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",7/1/2020,12:00:00,80,92,11,1,8,85,46,92
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",7/1/2020,12:00:00,137,41,41,5,56,81,44,81
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",7/1/2020,12:00:00,155,132,73,3,25,65,45,155
+Maharashtra,Pune,"Karve Road, Pune - MPCB",7/1/2020,12:00:00,178,129,28,5,72,94,43,178
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",7/1/2020,12:00:00,73,110,48,5,18,115,24,115
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",7/1/2020,12:00:00,137,88,58,5,47,67,30,88
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",7/1/2020,2:00:00,90,104,16,3,11,45,52,104
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",7/1/2020,2:00:00,107,75,15,7,4,24,14,107
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",7/1/2020,2:00:00,137,118,41,5,18,17,44,141
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",7/1/2020,2:00:00,109,189,19,14,7,67,15,189
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",7/1/2020,2:00:00,98,99,47,5,13,115,18,115
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",7/1/2020,2:00:00,119,90,6,3,11,33,11,119
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",7/1/2020,2:00:00,210,173,58,7,12,72,12,210
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",7/1/2020,2:00:00,220,146,56,3,22,33,21,220
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",7/1/2020,2:00:00,206,182,101,7,8,42,36,206
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",7/1/2020,2:00:00,154,124,32,5,10,53,44,154
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",7/1/2020,2:00:00,184,200,109,11,8,49,27,200
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",7/1/2020,2:00:00,201,148,24,4,10,87,44,201
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",7/1/2020,2:00:00,220,174,59,2,8,80,13,220
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",7/1/2020,2:00:00,220,139,40,4,13,62,14,220
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",7/1/2020,2:00:00,82,86,74,6,26,25,44,86
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",7/1/2020,2:00:00,109,108,13,1,6,53,49,109
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",7/1/2020,2:00:00,137,41,41,5,56,83,44,83
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",7/1/2020,2:00:00,198,153,83,3,16,56,30,198
+Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",7/1/2020,2:00:00,137,118,41,5,18,66,16,141
+Maharashtra,Pune,"Karve Road, Pune - MPCB",7/1/2020,2:00:00,228,152,29,5,75,85,43,228
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",7/1/2020,2:00:00,59,104,45,5,18,99,26,104
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",7/1/2020,2:00:00,137,88,58,5,29,44,32,88
+Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",7/1/2020,3:00:00,89,104,16,3,12,41,54,104
+Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",7/1/2020,3:00:00,107,75,15,7,4,24,15,107
+Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",7/1/2020,3:00:00,137,118,41,5,18,17,44,141
+Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",7/1/2020,3:00:00,110,192,18,14,11,68,14,192
+Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",7/1/2020,3:00:00,97,98,47,5,13,115,20,115
+Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",7/1/2020,3:00:00,122,92,7,3,11,33,14,122
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",7/1/2020,3:00:00,213,174,58,7,12,70,16,213
+Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",7/1/2020,3:00:00,223,147,56,3,23,32,23,223
+Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",7/1/2020,3:00:00,203,184,104,7,8,41,41,203
+Maharashtra,Mumbai,"Powai, Mumbai - MPCB",7/1/2020,3:00:00,155,122,34,5,10,56,49,155
+Maharashtra,Mumbai,"Sion, Mumbai - MPCB",7/1/2020,3:00:00,187,201,113,12,8,45,39,201
+Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",7/1/2020,3:00:00,203,148,24,4,10,87,44,203
+Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",7/1/2020,3:00:00,224,176,57,2,8,77,18,224
+Maharashtra,Mumbai,"Worli, Mumbai - MPCB",7/1/2020,3:00:00,225,139,40,4,13,59,20,225
+Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",7/1/2020,3:00:00,85,87,76,6,25,27,44,87
+Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",7/1/2020,3:00:00,110,108,13,1,5,49,47,110
+Maharashtra,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",7/1/2020,3:00:00,137,41,41,5,56,86,44,86
+Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",7/1/2020,3:00:00,200,154,84,3,16,53,38,200
+Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",7/1/2020,3:00:00,137,118,41,5,18,66,16,141
+Maharashtra,Pune,"Karve Road, Pune - MPCB",7/1/2020,3:00:00,230,152,29,5,76,85,42,230
+Maharashtra,Solapur,"Solapur, Solapur - MPCB",7/1/2020,3:00:00,57,103,44,5,18,101,26,103
+Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",7/1/2020,3:00:00,137,87,59,5,30,45,36,87
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",3/1/2020,10:00:00,58,49,17,11,4,68,21,68
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",5/1/2020,6:00:00,144,114,15,19,4,72,56,144
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",5/1/2020,6:00:00,159,140,28,1,28,71,19,159
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",6/1/2020,3:00:00,108,101,17,18,4,71,43,108
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",6/1/2020,3:00:00,248,204,29,1,27,79,26,248
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",6/1/2020,6:00:00,105,98,17,18,4,72,59,105
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",6/1/2020,6:00:00,248,206,29,1,27,61,34,248
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",6/1/2020,11:00:00,95,99,17,19,4,72,35,99
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",6/1/2020,11:00:00,265,222,29,1,27,84,16,265
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",7/1/2020,12:00:00,95,99,18,20,4,72,27,99
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",7/1/2020,12:00:00,271,229,29,1,27,90,10,271
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",7/1/2020,2:00:00,112,114,24,20,5,73,26,114
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",7/1/2020,2:00:00,349,294,29,1,31,130,18,349
+Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",7/1/2020,3:00:00,113,115,24,19,6,74,34,115
+Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",7/1/2020,3:00:00,364,306,29,1,32,131,25,364
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",3/1/2020,10:00:00,159,102,13,3,14,40,17,159
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",3/1/2020,10:00:00,101,91,23,4,10,86,16,101
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",3/1/2020,10:00:00,151,119,18,4,9,50,34,151
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",3/1/2020,10:00:00,94,124,30,3,14,14,20,124
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",3/1/2020,10:00:00,95,84,17,4,12,18,25,101
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",3/1/2020,10:00:00,271,158,12,3,34,39,15,271
+Punjab,Patiala,"Model Town, Patiala - PPCB",3/1/2020,10:00:00,164,130,22,9,19,52,13,164
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",3/1/2020,10:00:00,163,146,7,4,13,11,16,163
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",5/1/2020,6:00:00,128,97,12,3,13,9,26,128
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",5/1/2020,6:00:00,98,89,23,4,9,93,16,98
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",5/1/2020,6:00:00,125,109,22,4,7,39,33,125
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",5/1/2020,6:00:00,95,84,17,4,12,39,20,101
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",5/1/2020,6:00:00,74,93,24,3,6,17,28,93
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",5/1/2020,6:00:00,315,209,12,3,44,37,24,315
+Punjab,Patiala,"Model Town, Patiala - PPCB",5/1/2020,6:00:00,117,113,18,8,16,53,8,117
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",5/1/2020,6:00:00,147,117,7,4,13,9,16,147
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",6/1/2020,3:00:00,67,61,13,3,9,34,31,67
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",6/1/2020,3:00:00,88,78,23,4,9,89,16,89
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",6/1/2020,3:00:00,97,92,18,5,7,42,15,97
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",6/1/2020,3:00:00,118,90,8,1,11,39,5,118
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",6/1/2020,3:00:00,53,63,24,3,6,18,13,63
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",6/1/2020,3:00:00,171,113,12,3,30,40,7,171
+Punjab,Patiala,"Model Town, Patiala - PPCB",6/1/2020,3:00:00,67,81,18,7,20,46,7,81
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",6/1/2020,3:00:00,99,96,7,4,14,10,16,99
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",6/1/2020,6:00:00,63,56,13,3,9,30,37,63
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",6/1/2020,6:00:00,80,73,23,4,9,88,16,88
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",6/1/2020,6:00:00,106,96,18,5,8,42,18,106
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",6/1/2020,6:00:00,118,90,8,1,11,39,8,118
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",6/1/2020,6:00:00,52,60,26,3,6,20,15,60
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",6/1/2020,6:00:00,171,113,12,3,12,46,7,171
+Punjab,Patiala,"Model Town, Patiala - PPCB",6/1/2020,6:00:00,67,80,19,7,20,44,8,80
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",6/1/2020,6:00:00,100,98,7,4,13,10,16,100
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",6/1/2020,11:00:00,56,48,13,3,8,23,50,56
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",6/1/2020,11:00:00,59,59,23,4,9,89,16,89
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",6/1/2020,11:00:00,106,96,18,5,8,42,13,106
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",6/1/2020,11:00:00,81,73,8,1,10,39,8,81
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",6/1/2020,11:00:00,48,53,30,3,5,22,15,53
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",6/1/2020,11:00:00,95,84,12,3,12,45,4,101
+Punjab,Patiala,"Model Town, Patiala - PPCB",6/1/2020,11:00:00,64,72,18,7,20,44,7,72
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",6/1/2020,11:00:00,91,91,7,4,13,13,16,91
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",7/1/2020,12:00:00,55,47,13,3,9,23,88,88
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",7/1/2020,12:00:00,55,57,23,4,9,89,16,89
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",7/1/2020,12:00:00,107,97,18,5,8,43,12,107
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",7/1/2020,12:00:00,76,70,8,1,10,39,7,76
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",7/1/2020,12:00:00,49,53,30,3,5,22,14,53
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",7/1/2020,12:00:00,95,84,12,3,12,42,4,101
+Punjab,Patiala,"Model Town, Patiala - PPCB",7/1/2020,12:00:00,62,69,18,7,20,44,7,69
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",7/1/2020,12:00:00,89,90,7,4,13,13,16,90
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",7/1/2020,2:00:00,60,46,12,3,8,36,4,60
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",7/1/2020,2:00:00,43,45,22,4,10,89,16,89
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",7/1/2020,2:00:00,114,101,23,5,10,44,11,114
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",7/1/2020,2:00:00,61,57,8,1,9,39,7,61
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",7/1/2020,2:00:00,60,62,40,3,4,22,13,62
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",7/1/2020,2:00:00,95,84,12,3,19,33,4,101
+Punjab,Patiala,"Model Town, Patiala - PPCB",7/1/2020,2:00:00,47,46,17,7,16,51,6,51
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",7/1/2020,2:00:00,62,72,7,4,13,10,16,72
+Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",7/1/2020,3:00:00,61,47,12,3,9,35,4,61
+Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",7/1/2020,3:00:00,47,48,23,4,10,89,16,89
+Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",7/1/2020,3:00:00,117,102,24,5,10,41,12,117
+Punjab,Khanna,"Kalal Majra, Khanna - PPCB",7/1/2020,3:00:00,61,57,8,1,9,39,8,61
+Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",7/1/2020,3:00:00,60,62,40,3,4,22,13,62
+Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",7/1/2020,3:00:00,95,84,12,3,19,30,5,101
+Punjab,Patiala,"Model Town, Patiala - PPCB",7/1/2020,3:00:00,45,44,17,7,16,51,7,51
+Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",7/1/2020,3:00:00,62,73,7,4,13,10,16,73
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",3/1/2020,10:00:00,107,98,44,10,10,64,49,107
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",3/1/2020,10:00:00,76,95,18,3,21,29,46,95
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",3/1/2020,10:00:00,317,279,40,12,31,59,50,317
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",3/1/2020,10:00:00,61,92,48,7,13,29,61,92
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",3/1/2020,10:00:00,116,154,88,9,16,72,26,154
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",3/1/2020,10:00:00,87,100,51,12,17,57,42,100
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",3/1/2020,10:00:00,223,157,28,9,9,42,37,223
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",3/1/2020,10:00:00,129,119,39,7,10,41,50,129
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",3/1/2020,10:00:00,161,122,27,6,10,30,71,161
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",3/1/2020,10:00:00,115,110,32,10,8,91,25,115
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",5/1/2020,6:00:00,161,119,34,11,11,47,82,161
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",5/1/2020,6:00:00,74,92,21,2,21,21,82,92
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",5/1/2020,6:00:00,287,223,51,8,48,39,60,287
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",5/1/2020,6:00:00,83,119,61,10,8,20,73,119
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",5/1/2020,6:00:00,128,123,41,9,16,32,56,137
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",5/1/2020,6:00:00,186,146,68,25,30,65,50,186
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",5/1/2020,6:00:00,223,206,29,9,11,60,37,223
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",5/1/2020,6:00:00,137,131,34,7,10,30,54,137
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",5/1/2020,6:00:00,124,109,26,5,8,34,92,124
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",5/1/2020,6:00:00,118,119,36,11,9,47,47,119
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",6/1/2020,3:00:00,74,78,39,10,9,39,56,78
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",6/1/2020,3:00:00,61,83,19,4,19,23,40,83
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",6/1/2020,3:00:00,271,204,45,9,36,59,33,271
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",6/1/2020,3:00:00,70,102,52,8,11,27,56,102
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",6/1/2020,3:00:00,147,144,67,6,12,25,38,147
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",6/1/2020,3:00:00,118,120,69,22,18,31,40,120
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",6/1/2020,3:00:00,218,200,34,9,11,69,25,218
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",6/1/2020,3:00:00,95,104,36,6,10,24,35,104
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",6/1/2020,3:00:00,130,96,29,5,10,33,56,130
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",6/1/2020,3:00:00,112,118,38,11,8,54,27,118
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",6/1/2020,6:00:00,73,77,44,10,9,33,65,77
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",6/1/2020,6:00:00,59,82,20,5,21,21,58,82
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",6/1/2020,6:00:00,275,206,41,10,37,48,45,275
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",6/1/2020,6:00:00,70,104,53,8,14,26,58,104
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",6/1/2020,6:00:00,144,141,68,6,13,22,46,144
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",6/1/2020,6:00:00,115,119,72,23,17,59,40,119
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",6/1/2020,6:00:00,217,201,33,9,12,68,45,217
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",6/1/2020,6:00:00,91,99,36,6,10,21,58,99
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",6/1/2020,6:00:00,126,93,29,5,10,28,82,126
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",6/1/2020,6:00:00,111,116,39,12,8,71,36,116
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",6/1/2020,11:00:00,87,94,49,11,10,42,34,94
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",6/1/2020,11:00:00,61,82,20,5,20,26,34,82
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",6/1/2020,11:00:00,278,201,38,10,40,47,25,278
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",6/1/2020,11:00:00,70,100,46,7,15,28,45,100
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",6/1/2020,11:00:00,128,137,71,6,14,44,27,137
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",6/1/2020,11:00:00,108,116,72,23,17,73,34,116
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",6/1/2020,11:00:00,186,169,31,9,10,71,41,186
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",6/1/2020,11:00:00,81,97,35,7,11,39,36,97
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",6/1/2020,11:00:00,110,91,29,5,9,27,51,110
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",6/1/2020,11:00:00,106,116,39,13,9,105,17,116
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",7/1/2020,12:00:00,90,96,51,11,11,42,26,96
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",7/1/2020,12:00:00,61,81,21,5,19,26,27,81
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",7/1/2020,12:00:00,272,197,38,10,40,48,21,272
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",7/1/2020,12:00:00,68,98,44,7,15,29,43,98
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",7/1/2020,12:00:00,122,135,71,6,14,50,23,135
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",7/1/2020,12:00:00,104,113,70,22,16,68,33,113
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",7/1/2020,12:00:00,175,156,30,9,10,74,35,175
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",7/1/2020,12:00:00,80,95,35,6,11,43,30,95
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",7/1/2020,12:00:00,109,91,29,5,9,28,42,109
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",7/1/2020,12:00:00,102,114,38,13,8,111,11,114
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",7/1/2020,2:00:00,92,104,53,11,11,35,30,104
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",7/1/2020,2:00:00,66,86,24,4,22,23,34,86
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",7/1/2020,2:00:00,203,143,30,12,49,45,24,203
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",7/1/2020,2:00:00,63,94,29,5,14,49,52,94
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",7/1/2020,2:00:00,108,122,66,6,13,23,34,122
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",7/1/2020,2:00:00,77,94,58,16,19,39,60,94
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",7/1/2020,2:00:00,204,156,24,9,11,180,24,204
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",7/1/2020,2:00:00,121,123,32,5,10,34,21,123
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",7/1/2020,2:00:00,144,104,28,5,8,35,30,144
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",7/1/2020,2:00:00,88,107,39,13,8,47,18,107
+Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",7/1/2020,3:00:00,93,105,52,11,11,32,38,105
+Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",7/1/2020,3:00:00,66,87,24,4,23,22,39,87
+Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",7/1/2020,3:00:00,209,142,30,11,49,49,27,209
+Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",7/1/2020,3:00:00,63,94,29,5,13,48,51,94
+Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",7/1/2020,3:00:00,107,121,65,6,13,22,37,121
+Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",7/1/2020,3:00:00,77,93,58,16,18,40,61,93
+Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",7/1/2020,3:00:00,206,156,23,9,11,70,29,206
+Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",7/1/2020,3:00:00,123,127,32,5,10,33,28,127
+Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",7/1/2020,3:00:00,149,107,28,5,7,35,38,149
+Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",7/1/2020,3:00:00,88,107,39,13,8,50,25,107
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",3/1/2020,10:00:00,81,37,21,10,7,60,26,81
+TamilNadu,Chennai,"Manali, Chennai - CPCB",3/1/2020,10:00:00,68,37,31,19,9,87,29,87
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",3/1/2020,10:00:00,36,37,1,10,7,22,20,36
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",3/1/2020,10:00:00,51,43,15,10,10,20,23,51
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",5/1/2020,6:00:00,84,37,14,10,11,26,44,84
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",5/1/2020,6:00:00,25,30,7,14,18,19,38,38
+TamilNadu,Chennai,"Manali, Chennai - CPCB",5/1/2020,6:00:00,34,37,18,10,5,96,29,96
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",5/1/2020,6:00:00,21,37,4,10,5,23,27,27
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",5/1/2020,6:00:00,59,43,56,10,7,7,39,59
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",6/1/2020,3:00:00,42,37,18,10,10,46,21,46
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",6/1/2020,3:00:00,29,28,5,12,14,15,38,38
+TamilNadu,Chennai,"Manali, Chennai - CPCB",6/1/2020,3:00:00,37,37,19,10,5,100,29,100
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",6/1/2020,3:00:00,28,37,5,10,6,23,17,28
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",6/1/2020,3:00:00,59,42,15,2,10,10,34,59
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",6/1/2020,6:00:00,40,37,18,10,11,45,17,45
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",6/1/2020,6:00:00,30,27,5,12,16,16,38,38
+TamilNadu,Chennai,"Manali, Chennai - CPCB",6/1/2020,6:00:00,37,37,19,11,5,99,29,99
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",6/1/2020,6:00:00,27,37,5,10,6,23,24,27
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",6/1/2020,6:00:00,66,48,15,2,10,11,45,66
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",6/1/2020,11:00:00,41,37,18,10,9,39,16,41
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",6/1/2020,11:00:00,28,26,6,13,18,17,38,38
+TamilNadu,Chennai,"Manali, Chennai - CPCB",6/1/2020,11:00:00,37,37,22,12,6,92,29,92
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",6/1/2020,11:00:00,25,37,6,10,7,23,19,25
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",6/1/2020,11:00:00,56,45,15,2,11,12,40,56
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",7/1/2020,12:00:00,41,37,18,10,9,28,10,41
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",7/1/2020,12:00:00,28,26,6,13,18,17,38,38
+TamilNadu,Chennai,"Manali, Chennai - CPCB",7/1/2020,12:00:00,37,37,25,13,6,85,29,85
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",7/1/2020,12:00:00,25,37,6,10,7,23,16,25
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",7/1/2020,12:00:00,54,44,15,2,11,12,35,54
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",7/1/2020,2:00:00,32,37,19,10,6,23,21,32
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",7/1/2020,2:00:00,39,32,6,12,24,15,38,39
+TamilNadu,Chennai,"Manali, Chennai - CPCB",7/1/2020,2:00:00,65,37,29,15,10,52,29,65
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",7/1/2020,2:00:00,25,37,5,10,6,23,30,30
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",7/1/2020,2:00:00,51,44,15,3,11,12,26,51
+TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",7/1/2020,3:00:00,35,37,19,10,6,23,23,35
+TamilNadu,Chennai,"Manali Village, Chennai - TNPCB",7/1/2020,3:00:00,41,33,6,12,27,16,38,41
+TamilNadu,Chennai,"Manali, Chennai - CPCB",7/1/2020,3:00:00,67,37,30,15,10,46,29,67
+TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",7/1/2020,3:00:00,26,37,5,10,6,23,34,34
+TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",7/1/2020,3:00:00,51,43,15,3,11,11,31,51
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",3/1/2020,10:00:00,53,60,25,5,6,22,33,60
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",3/1/2020,10:00:00,28,48,30,5,3,29,29,48
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",3/1/2020,10:00:00,96,94,43,4,13,19,34,101
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",3/1/2020,10:00:00,59,60,40,1,9,26,20,60
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",3/1/2020,10:00:00,71,94,40,4,17,40,32,71
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",3/1/2020,10:00:00,76,65,46,3,1,26,28,76
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",5/1/2020,6:00:00,100,86,27,5,19,18,42,100
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",5/1/2020,6:00:00,85,98,36,5,9,12,33,98
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",5/1/2020,6:00:00,102,104,33,4,31,24,43,104
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",5/1/2020,6:00:00,109,105,48,4,19,23,26,109
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",5/1/2020,6:00:00,116,94,28,4,26,40,61,116
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",5/1/2020,6:00:00,166,126,66,3,3,44,31,166
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",6/1/2020,3:00:00,105,92,31,4,19,24,35,105
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",6/1/2020,3:00:00,95,95,40,5,11,60,32,95
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",6/1/2020,3:00:00,115,114,38,3,35,30,39,115
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",6/1/2020,3:00:00,122,112,53,4,20,28,24,122
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",6/1/2020,3:00:00,96,94,43,4,13,51,40,101
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",6/1/2020,3:00:00,148,119,68,3,3,28,25,148
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",6/1/2020,6:00:00,104,94,34,4,19,24,39,104
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",6/1/2020,6:00:00,88,92,37,5,10,69,38,92
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",6/1/2020,6:00:00,112,110,37,3,34,29,47,112
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",6/1/2020,6:00:00,116,107,51,4,20,23,32,116
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",6/1/2020,6:00:00,139,114,66,3,3,32,29,139
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",6/1/2020,11:00:00,92,91,37,4,14,31,30,92
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",6/1/2020,11:00:00,74,87,37,5,8,61,28,87
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",6/1/2020,11:00:00,100,98,33,3,25,28,37,100
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",6/1/2020,11:00:00,101,100,49,4,16,22,25,101
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",6/1/2020,11:00:00,104,94,54,4,21,40,30,104
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",6/1/2020,11:00:00,139,110,66,3,3,49,25,139
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",7/1/2020,12:00:00,90,90,37,4,12,31,28,90
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",7/1/2020,12:00:00,72,86,38,5,7,33,26,86
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",7/1/2020,12:00:00,96,96,32,3,24,28,34,96
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",7/1/2020,12:00:00,97,99,48,4,15,23,22,99
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",7/1/2020,12:00:00,105,94,54,4,20,40,27,105
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",7/1/2020,12:00:00,137,109,67,3,2,51,23,137
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",7/1/2020,2:00:00,87,87,34,4,3,27,31,87
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",7/1/2020,2:00:00,60,79,32,5,3,33,27,79
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",7/1/2020,2:00:00,96,94,43,4,13,25,37,101
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",7/1/2020,2:00:00,71,81,38,1,5,23,23,81
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",7/1/2020,2:00:00,101,94,42,4,16,43,32,101
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",7/1/2020,2:00:00,122,101,62,4,2,35,25,122
+Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",7/1/2020,3:00:00,87,87,34,4,3,28,32,87
+Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",7/1/2020,3:00:00,60,79,32,5,3,33,28,79
+Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",7/1/2020,3:00:00,96,94,43,4,13,25,38,101
+Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",7/1/2020,3:00:00,70,79,38,1,5,23,25,79
+Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",7/1/2020,3:00:00,99,94,42,4,16,43,34,99
+Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",7/1/2020,3:00:00,123,102,62,4,2,38,26,123
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",3/1/2020,10:00:00,235,201,30,6,11,49,58,235
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",3/1/2020,10:00:00,247,151,76,22,55,60,103,247
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",3/1/2020,10:00:00,277,294,92,20,27,84,18,294
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",3/1/2020,10:00:00,339,298,75,22,19,82,24,339
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",3/1/2020,10:00:00,277,242,79,17,15,172,16,242
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",3/1/2020,10:00:00,324,285,80,13,6,82,12,324
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",3/1/2020,10:00:00,278,255,83,19,27,60,18,278
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",3/1/2020,10:00:00,300,314,117,18,12,36,9,314
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",3/1/2020,10:00:00,71,135,81,16,14,21,1,135
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",3/1/2020,10:00:00,281,200,53,14,11,65,25,281
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",3/1/2020,10:00:00,216,200,240,14,4,54,6,240
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",3/1/2020,10:00:00,261,200,39,14,18,65,15,261
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",3/1/2020,10:00:00,167,200,43,14,10,122,39,167
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",3/1/2020,10:00:00,360,200,33,8,12,75,24,360
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",3/1/2020,10:00:00,202,164,48,14,14,66,19,202
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",3/1/2020,10:00:00,208,203,73,14,16,66,54,208
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",3/1/2020,10:00:00,277,200,73,14,18,32,16,280
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",3/1/2020,10:00:00,159,128,66,12,11,42,5,159
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",3/1/2020,10:00:00,328,315,64,12,27,59,2,328
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",3/1/2020,10:00:00,303,264,23,14,18,175,19,303
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",3/1/2020,10:00:00,330,289,95,18,22,69,27,330
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",3/1/2020,10:00:00,291,232,88,16,16,109,7,291
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",3/1/2020,10:00:00,198,200,60,14,21,65,29,198
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",5/1/2020,6:00:00,264,200,66,14,26,84,6,264
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",5/1/2020,6:00:00,331,221,30,5,10,61,93,331
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",5/1/2020,6:00:00,328,195,88,15,30,50,206,328
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",5/1/2020,6:00:00,345,243,106,17,24,49,45,345
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",5/1/2020,6:00:00,357,268,65,18,11,52,24,357
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",5/1/2020,6:00:00,371,237,81,17,14,50,52,371
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",5/1/2020,6:00:00,357,265,98,13,11,64,45,357
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",5/1/2020,6:00:00,349,280,86,15,13,47,50,349
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",5/1/2020,6:00:00,321,264,79,18,8,50,21,321
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",5/1/2020,6:00:00,108,191,103,14,10,20,1,191
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",5/1/2020,6:00:00,252,200,61,14,18,65,37,252
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",5/1/2020,6:00:00,132,200,169,14,8,42,1,169
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",5/1/2020,6:00:00,146,200,49,14,20,65,25,146
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",5/1/2020,6:00:00,199,200,36,14,11,110,55,199
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",5/1/2020,6:00:00,242,200,33,8,8,92,24,242
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",5/1/2020,6:00:00,254,193,53,16,14,44,26,254
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",5/1/2020,6:00:00,241,223,41,14,19,39,64,241
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",5/1/2020,6:00:00,332,199,92,12,30,24,39,332
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",5/1/2020,6:00:00,277,200,73,14,18,65,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",5/1/2020,6:00:00,308,213,64,10,21,63,2,308
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",5/1/2020,6:00:00,353,249,29,14,18,52,33,353
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",5/1/2020,6:00:00,362,245,100,15,14,65,61,362
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",5/1/2020,6:00:00,318,200,86,14,15,61,17,318
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",5/1/2020,6:00:00,142,200,56,14,16,65,32,142
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",6/1/2020,3:00:00,319,200,71,14,28,86,8,319
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",6/1/2020,3:00:00,336,204,26,5,12,80,14,336
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",6/1/2020,3:00:00,323,187,85,14,29,48,50,323
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",6/1/2020,3:00:00,330,247,105,17,29,68,29,330
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",6/1/2020,3:00:00,351,248,62,19,12,66,29,351
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",6/1/2020,3:00:00,355,218,86,16,27,76,86,355
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",6/1/2020,3:00:00,353,259,89,12,17,97,116,353
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",6/1/2020,3:00:00,326,234,84,15,17,81,15,326
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",6/1/2020,3:00:00,321,264,72,17,7,84,9,321
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",6/1/2020,3:00:00,149,192,98,15,11,25,2,192
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",6/1/2020,3:00:00,296,200,74,14,44,65,37,296
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",6/1/2020,3:00:00,186,200,220,14,17,41,1,220
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",6/1/2020,3:00:00,219,200,63,14,23,65,19,219
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",6/1/2020,3:00:00,274,200,36,14,14,107,43,274
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",6/1/2020,3:00:00,355,200,33,8,19,97,24,355
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",6/1/2020,3:00:00,244,186,53,17,15,69,6,244
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",6/1/2020,3:00:00,232,225,46,15,21,50,18,232
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",6/1/2020,3:00:00,357,186,101,13,28,35,13,357
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",6/1/2020,3:00:00,277,200,73,14,18,112,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",6/1/2020,3:00:00,314,221,66,10,17,95,2,314
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",6/1/2020,3:00:00,347,257,29,14,18,86,36,347
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",6/1/2020,3:00:00,361,245,105,15,16,74,15,361
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",6/1/2020,3:00:00,325,212,94,12,15,105,19,325
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",6/1/2020,3:00:00,188,200,58,14,17,65,44,188
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",6/1/2020,6:00:00,323,200,73,14,29,102,7,323
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",6/1/2020,6:00:00,343,202,27,5,12,81,24,343
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",6/1/2020,6:00:00,327,188,83,15,29,58,74,327
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",6/1/2020,6:00:00,343,245,105,17,28,61,25,343
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",6/1/2020,6:00:00,363,250,64,19,12,66,30,363
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",6/1/2020,6:00:00,361,217,86,17,27,75,29,361
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",6/1/2020,6:00:00,358,257,89,12,17,83,101,358
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",6/1/2020,6:00:00,336,238,88,15,19,68,21,336
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",6/1/2020,6:00:00,329,269,74,17,7,75,10,329
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",6/1/2020,6:00:00,157,199,98,16,11,22,1,199
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",6/1/2020,6:00:00,278,200,79,14,41,65,41,278
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",6/1/2020,6:00:00,177,200,226,14,18,28,1,226
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",6/1/2020,6:00:00,218,200,62,14,23,65,23,218
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",6/1/2020,6:00:00,269,200,40,14,15,200,46,269
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",6/1/2020,6:00:00,348,200,33,8,20,96,24,348
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",6/1/2020,6:00:00,252,186,55,18,15,85,6,252
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",6/1/2020,6:00:00,249,228,47,15,21,54,21,249
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",6/1/2020,6:00:00,354,184,103,13,24,32,13,354
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",6/1/2020,6:00:00,277,200,73,14,18,98,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",6/1/2020,6:00:00,323,225,68,10,17,81,2,323
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",6/1/2020,6:00:00,354,257,29,14,18,74,39,354
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",6/1/2020,6:00:00,369,247,106,15,17,62,46,369
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",6/1/2020,6:00:00,335,214,96,12,15,104,21,335
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",6/1/2020,6:00:00,190,200,58,14,17,65,62,190
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",6/1/2020,11:00:00,308,200,74,14,29,87,6,308
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",6/1/2020,11:00:00,306,178,26,5,11,68,36,306
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",6/1/2020,11:00:00,326,187,75,15,30,32,64,326
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",6/1/2020,11:00:00,323,210,97,17,27,56,15,323
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",6/1/2020,11:00:00,345,225,62,18,11,56,23,345
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",6/1/2020,11:00:00,340,189,78,17,24,71,7,340
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",6/1/2020,11:00:00,342,230,85,12,18,61,27,342
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",6/1/2020,11:00:00,336,231,89,16,21,59,12,336
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",6/1/2020,11:00:00,319,256,76,17,7,53,6,319
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",6/1/2020,11:00:00,152,189,96,17,11,25,1,189
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",6/1/2020,11:00:00,280,200,90,14,40,65,19,280
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",6/1/2020,11:00:00,187,200,201,14,19,43,2,201
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",6/1/2020,11:00:00,202,200,54,14,21,65,20,202
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",6/1/2020,11:00:00,272,200,41,14,17,150,40,272
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",6/1/2020,11:00:00,362,200,36,8,22,106,24,362
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",6/1/2020,11:00:00,215,164,55,17,13,81,5,215
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",6/1/2020,11:00:00,216,202,40,15,19,45,24,216
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",6/1/2020,11:00:00,288,153,93,13,18,25,15,288
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",6/1/2020,11:00:00,277,200,73,14,18,90,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",6/1/2020,11:00:00,316,218,65,10,16,68,2,316
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",6/1/2020,11:00:00,327,233,26,14,18,49,19,327
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",6/1/2020,11:00:00,355,228,99,15,19,35,55,355
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",6/1/2020,11:00:00,321,200,90,12,14,93,12,321
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",6/1/2020,11:00:00,211,200,60,14,22,65,39,211
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",7/1/2020,12:00:00,298,200,74,14,28,74,5,298
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",7/1/2020,12:00:00,298,174,26,5,11,67,36,298
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",7/1/2020,12:00:00,319,183,72,15,31,26,59,319
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",7/1/2020,12:00:00,317,203,96,16,26,57,13,317
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",7/1/2020,12:00:00,340,222,63,18,11,55,19,340
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",7/1/2020,12:00:00,337,185,76,17,24,70,7,337
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",7/1/2020,12:00:00,337,224,85,12,18,62,26,337
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",7/1/2020,12:00:00,333,225,89,16,21,59,10,333
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",7/1/2020,12:00:00,314,251,77,17,7,50,5,314
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",7/1/2020,12:00:00,150,187,95,17,11,24,1,187
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",7/1/2020,12:00:00,283,200,93,14,40,65,13,283
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",7/1/2020,12:00:00,190,200,204,14,19,45,2,204
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",7/1/2020,12:00:00,196,200,53,14,20,65,16,196
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",7/1/2020,12:00:00,271,200,40,14,17,159,38,271
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",7/1/2020,12:00:00,361,200,40,8,23,97,24,361
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",7/1/2020,12:00:00,208,162,55,17,13,83,5,208
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",7/1/2020,12:00:00,210,196,39,15,18,44,23,210
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",7/1/2020,12:00:00,276,148,91,12,17,24,15,276
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",7/1/2020,12:00:00,277,200,73,14,18,90,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",7/1/2020,12:00:00,312,215,64,10,16,67,2,312
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",7/1/2020,12:00:00,319,225,26,14,18,49,16,319
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",7/1/2020,12:00:00,350,222,97,15,19,35,51,350
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",7/1/2020,12:00:00,314,194,87,12,14,89,9,314
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",7/1/2020,12:00:00,220,200,60,14,23,65,30,220
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",7/1/2020,2:00:00,236,200,77,14,29,66,5,236
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",7/1/2020,2:00:00,203,113,19,5,7,65,23,203
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",7/1/2020,2:00:00,264,140,45,15,28,71,36,264
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",7/1/2020,2:00:00,284,147,75,14,17,59,13,284
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",7/1/2020,2:00:00,290,152,49,15,10,54,9,290
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",7/1/2020,2:00:00,307,136,51,17,10,47,5,307
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",7/1/2020,2:00:00,294,153,70,11,16,63,19,294
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",7/1/2020,2:00:00,262,145,75,18,20,66,7,262
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",7/1/2020,2:00:00,273,185,71,16,9,50,5,273
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",7/1/2020,2:00:00,95,136,81,19,10,25,1,136
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",7/1/2020,2:00:00,325,200,95,14,23,65,24,325
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",7/1/2020,2:00:00,254,200,247,14,10,45,1,254
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",7/1/2020,2:00:00,277,200,73,14,18,65,17,280
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",7/1/2020,2:00:00,249,200,42,14,15,100,36,249
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",7/1/2020,2:00:00,375,200,89,8,44,84,24,375
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",7/1/2020,2:00:00,125,119,40,13,13,36,10,125
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",7/1/2020,2:00:00,128,131,22,12,15,35,15,131
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",7/1/2020,2:00:00,137,108,66,10,14,20,17,137
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",7/1/2020,2:00:00,277,200,73,14,18,48,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",7/1/2020,2:00:00,240,140,48,8,18,53,3,240
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",7/1/2020,2:00:00,274,147,16,14,18,58,12,274
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",7/1/2020,2:00:00,297,150,69,13,24,28,13,297
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",7/1/2020,2:00:00,270,139,57,12,14,91,5,270
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",7/1/2020,2:00:00,352,200,69,14,26,65,30,352
+Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",7/1/2020,3:00:00,234,200,76,14,28,65,6,234
+Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",7/1/2020,3:00:00,197,108,19,5,6,65,28,197
+Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",7/1/2020,3:00:00,266,140,44,15,27,59,43,266
+Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",7/1/2020,3:00:00,286,148,76,14,16,61,13,286
+Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",7/1/2020,3:00:00,291,152,50,15,10,55,12,291
+Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",7/1/2020,3:00:00,308,137,52,17,11,50,6,308
+Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",7/1/2020,3:00:00,295,153,70,11,16,65,19,295
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",7/1/2020,3:00:00,263,143,74,18,19,67,10,263
+Uttar_Pradesh,Greater_Noida,"Knowledge Park - V, Greater Noida - UPPCB",7/1/2020,3:00:00,277,184,71,16,10,47,5,277
+Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",7/1/2020,3:00:00,86,134,82,19,10,25,1,134
+Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",7/1/2020,3:00:00,331,200,95,14,23,65,29,331
+Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",7/1/2020,3:00:00,265,200,247,14,10,45,1,265
+Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",7/1/2020,3:00:00,277,200,73,14,18,65,17,280
+Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",7/1/2020,3:00:00,249,200,41,14,16,100,37,249
+Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",7/1/2020,3:00:00,375,200,93,8,44,82,24,375
+Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",7/1/2020,3:00:00,119,116,39,13,13,36,11,119
+Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",7/1/2020,3:00:00,121,128,21,12,14,34,16,128
+Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",7/1/2020,3:00:00,124,105,64,10,14,26,17,124
+Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",7/1/2020,3:00:00,277,200,73,14,18,48,24,280
+Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",7/1/2020,3:00:00,240,139,48,8,18,52,3,240
+Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",7/1/2020,3:00:00,274,145,16,14,18,60,13,274
+Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",7/1/2020,3:00:00,300,151,70,13,24,33,14,300
+Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",7/1/2020,3:00:00,273,140,58,13,14,95,5,273
+Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",7/1/2020,3:00:00,353,200,69,14,26,65,40,353
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",3/1/2020,10:00:00,95,80,42,11,19,26,24,95
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",3/1/2020,10:00:00,137,105,54,8,20,23,23,137
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",3/1/2020,10:00:00,184,138,57,8,35,33,20,184
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",3/1/2020,10:00:00,126,92,70,7,8,26,6,126
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",3/1/2020,10:00:00,128,91,31,9,7,31,15,128
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",3/1/2020,10:00:00,98,102,32,8,51,22,6,102
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",3/1/2020,10:00:00,158,113,66,6,8,34,11,158
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",3/1/2020,10:00:00,106,85,46,8,8,23,6,106
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",3/1/2020,10:00:00,133,134,59,14,20,23,21,134
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",3/1/2020,10:00:00,103,77,60,3,9,23,14,103
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",3/1/2020,10:00:00,203,159,58,8,17,75,7,203
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",3/1/2020,10:00:00,117,104,55,12,6,37,24,117
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",5/1/2020,6:00:00,97,86,36,8,13,17,49,97
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",5/1/2020,6:00:00,211,182,64,9,26,23,20,211
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",5/1/2020,6:00:00,345,258,82,6,51,30,20,345
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",5/1/2020,6:00:00,225,127,49,6,6,20,16,225
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",5/1/2020,6:00:00,189,113,28,9,4,31,22,189
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",5/1/2020,6:00:00,180,137,43,12,40,23,19,180
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",5/1/2020,6:00:00,192,155,57,5,7,32,32,192
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",5/1/2020,6:00:00,148,117,39,6,10,36,5,148
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",5/1/2020,6:00:00,254,241,75,16,24,26,18,254
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",5/1/2020,6:00:00,127,128,93,3,13,23,18,128
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",5/1/2020,6:00:00,192,164,24,8,6,103,24,192
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",5/1/2020,6:00:00,172,117,54,7,5,24,30,172
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",6/1/2020,3:00:00,124,107,58,9,13,38,47,124
+West_Bengal,Haldia,"Haldia, Haldia - WBPCB",6/1/2020,3:00:00,203,159,58,8,22,41,13,203
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",6/1/2020,3:00:00,228,179,68,10,21,15,48,228
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",6/1/2020,3:00:00,358,312,80,5,31,35,39,358
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",6/1/2020,3:00:00,208,121,59,5,7,20,40,208
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",6/1/2020,3:00:00,203,159,29,9,5,32,42,203
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",6/1/2020,3:00:00,177,115,38,11,40,25,56,177
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",6/1/2020,3:00:00,241,174,58,5,9,45,49,241
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",6/1/2020,3:00:00,213,139,45,7,11,57,6,213
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",6/1/2020,3:00:00,227,206,71,15,17,23,43,227
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",6/1/2020,3:00:00,179,143,109,3,14,24,35,179
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",6/1/2020,3:00:00,226,160,25,9,8,118,57,226
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",6/1/2020,3:00:00,214,168,57,7,5,22,22,214
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",6/1/2020,6:00:00,128,110,57,9,14,30,62,128
+West_Bengal,Haldia,"Haldia, Haldia - WBPCB",6/1/2020,6:00:00,203,159,58,8,22,41,17,203
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",6/1/2020,6:00:00,229,179,68,10,21,12,67,229
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",6/1/2020,6:00:00,346,317,80,5,32,20,52,346
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",6/1/2020,6:00:00,207,119,60,5,7,10,58,207
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",6/1/2020,6:00:00,203,159,30,9,5,23,60,203
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",6/1/2020,6:00:00,170,114,38,11,40,14,67,170
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",6/1/2020,6:00:00,239,174,60,4,9,27,64,239
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",6/1/2020,6:00:00,221,144,46,7,11,38,7,221
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",6/1/2020,6:00:00,232,210,71,14,16,20,61,232
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",6/1/2020,6:00:00,177,142,107,3,14,19,50,177
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",6/1/2020,6:00:00,222,159,27,9,9,117,78,222
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",6/1/2020,6:00:00,222,172,58,8,5,29,31,222
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",6/1/2020,11:00:00,148,119,57,9,15,42,40,148
+West_Bengal,Haldia,"Haldia, Haldia - WBPCB",6/1/2020,11:00:00,203,159,58,8,22,41,12,203
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",6/1/2020,11:00:00,222,176,74,9,22,39,36,222
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",6/1/2020,11:00:00,334,329,82,6,31,51,34,334
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",6/1/2020,11:00:00,224,126,70,5,8,36,29,224
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",6/1/2020,11:00:00,203,159,39,9,6,60,33,203
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",6/1/2020,11:00:00,156,112,43,10,40,31,36,156
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",6/1/2020,11:00:00,245,177,71,4,10,49,36,245
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",6/1/2020,11:00:00,207,149,54,7,11,59,7,207
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",6/1/2020,11:00:00,240,208,78,13,16,37,37,240
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",6/1/2020,11:00:00,177,141,91,3,15,62,25,177
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",6/1/2020,11:00:00,230,162,42,8,9,119,36,230
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",6/1/2020,11:00:00,233,198,61,8,6,74,23,233
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",7/1/2020,12:00:00,153,120,55,9,15,43,33,153
+West_Bengal,Haldia,"Haldia, Haldia - WBPCB",7/1/2020,12:00:00,203,159,58,8,22,41,10,203
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",7/1/2020,12:00:00,217,175,75,9,22,41,31,217
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",7/1/2020,12:00:00,330,325,81,6,30,54,30,330
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",7/1/2020,12:00:00,225,129,72,5,8,41,21,225
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",7/1/2020,12:00:00,203,159,40,9,6,65,23,203
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",7/1/2020,12:00:00,152,111,43,9,40,33,27,152
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",7/1/2020,12:00:00,244,175,72,4,10,51,27,244
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",7/1/2020,12:00:00,205,148,55,7,10,67,6,205
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",7/1/2020,12:00:00,239,201,79,13,16,38,32,239
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",7/1/2020,12:00:00,176,141,86,3,14,67,17,176
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",7/1/2020,12:00:00,229,161,45,8,9,113,25,229
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",7/1/2020,12:00:00,240,203,62,8,6,74,19,240
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",7/1/2020,2:00:00,224,150,53,10,16,54,45,224
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",7/1/2020,2:00:00,203,173,72,7,28,28,41,173
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",7/1/2020,2:00:00,310,324,67,7,34,45,38,324
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",7/1/2020,2:00:00,228,139,69,5,9,27,34,228
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",7/1/2020,2:00:00,203,144,41,8,9,40,46,203
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",7/1/2020,2:00:00,138,118,40,7,42,28,37,138
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",7/1/2020,2:00:00,240,164,66,5,11,43,44,240
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",7/1/2020,2:00:00,162,141,58,7,10,39,7,162
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",7/1/2020,2:00:00,272,211,78,10,22,31,47,272
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",7/1/2020,2:00:00,159,135,43,4,16,33,38,159
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",7/1/2020,2:00:00,208,150,54,5,10,95,54,208
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",7/1/2020,2:00:00,204,169,59,8,6,28,30,204
+West_Bengal,Asanol,"Asansol Court Area, Asansol - WBPCB",7/1/2020,3:00:00,230,152,53,10,15,55,53,230
+West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",7/1/2020,3:00:00,203,176,73,7,28,27,49,176
+West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",7/1/2020,3:00:00,316,329,66,7,35,47,44,329
+West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",7/1/2020,3:00:00,234,141,70,5,10,28,42,234
+West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",7/1/2020,3:00:00,202,144,41,8,9,42,54,202
+West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",7/1/2020,3:00:00,146,122,40,7,41,29,49,146
+West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",7/1/2020,3:00:00,247,167,67,5,12,43,55,247
+West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",7/1/2020,3:00:00,163,142,57,7,10,39,8,163
+West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",7/1/2020,3:00:00,279,215,78,11,23,31,53,279
+West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",7/1/2020,3:00:00,162,136,43,4,16,34,44,162
+West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",7/1/2020,3:00:00,213,152,55,5,11,95,64,213
+West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",7/1/2020,3:00:00,199,166,60,7,6,29,36,199
